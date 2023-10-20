@@ -29,3 +29,11 @@
       -Longitude: the valid range for longitude values is from +180 to -180 degrees.
 
     The flight distance can be computed using the Haversine formula described in the provided Apex method.
+
+# Steps for deployment
+
+1. Install the unmanaged package with the Workbench. To do this, log in to the organization using Workbench (https://workbench.developerforce.com/login.php). Then select migration -> Deploy. After that, download the zip file with all the metadata that is stored in the unpackaged.zip file, select the Single Package, Rollback On Error checkboxes and for Test Level select RunAllTestsInOrg. After that click Next -> Deploy. You can use any other tourbase for deployment.
+2. Using Data Loader or any other preferred tool, import the airports.csv file into the Airport object to get the test data set.
+3. Assign the Flynet User set of rights to the required user.
+4. Open Flynet Lightning application.
+
