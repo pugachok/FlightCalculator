@@ -1,0 +1,102 @@
+<template>
+    <div class="slds-align_absolute-center">
+        <div class="slds-is-relative slds-grid_align-center slds-size_2-of-3">
+            <lightning-card class="slds-grid_align-center" variant="narrow" icon-name="custom:custom20" title="Flight">
+
+                <div class="hr"></div>
+
+                <!--Spinner for track status form-->
+                <lightning-spinner variant="brand"
+                                   size="medium"
+                                   if:true={isLoading}>
+                </lightning-spinner>
+
+                <!--Container for for with Lookup and custom inputs fileds-->
+                <div class="slds-p-left_medium slds-p-right_medium">
+                    <!--Flight form-->
+                    <lightning-record-edit-form object-api-name="Flight__c">
+                        <!--Header for Flight details section-->
+                        <div class="header-section">
+                            <lightning-icon size="small" icon-name="standard:data_streams"></lightning-icon>
+                            <h2>Flight details</h2>
+                        </div>
+                        <!--Flight details section-->
+                        <div class="airport-info">
+                            <div class="airport-container">
+                                <lightning-input-field onchange={handleDepartureAirport}
+                                                       class="airport-from"
+                                                       id="DepartureAirport"
+
+                                                       field-name="Departure_Airport__c" required>
+                                </lightning-input-field>
+                            </div>
+                            <div class="icon-container">
+                                <lightning-icon icon-name="utility:forward" size="small"></lightning-icon>
+                            </div>
+                            <div class="airport-container">
+                                <lightning-input-field onchange={handleArrivalAirport}
+                                                       id="ArrivalAirport"
+                                                       field-name="Arrival_Airport__c"
+                                                       required>
+                                </lightning-input-field>
+                            </div>
+                        </div>
+
+                        <div class="client-info">
+                            <!--Header for Client Info section-->
+                            <div class="header-section">
+                                <lightning-icon size="small" icon-name="standard:people"></lightning-icon>
+                                <h2>Client Info</h2>
+                            </div>
+                            <!--Client Info section-->
+                            <div class="client-inputs-container">
+                                <div class="client-inputs-first-column">
+                                    <lightning-input value={firstName}
+                                                     name="firstName"
+                                                     onchange={handleFirstName}
+                                                     message-when-value-missing="Enter first name"
+                                                     label="First Name" required>
+                                    </lightning-input>
+                                    <lightning-input value={lastName}
+                                                     onchange={handleLastName}
+                                                     message-when-value-missing="Enter last name"
+                                                     label="Last Name" required>
+                                    </lightning-input>
+                                </div>
+                                <div class="client-inputs-second-column">
+                                    <lightning-input value={passportNumber}
+                                                     onchange={handlePassport}
+                                                     min-length="5"
+                                                     id="passport"
+                                                     message-when-value-missing="Enter passport number"
+                                                     label="Passport Number" required>
+                                    </lightning-input>
+                                    <lightning-input onchange={handleDate}
+                                                     class="input-date"
+                                                     value={flightDate}
+                                                     min={currentDate}
+                                                     type="date"
+                                                     name="date"
+                                                     message-when-value-missing="Choose flight date"
+                                                     label="Flight Date" required>
+                                    </lightning-input>
+                                </div>
+                            </div>
+                        </div>
+                    </lightning-record-edit-form>
+                </div>
+
+                <!--Footer with Book Button-->
+                <div class="footer-container">
+                    <div class="btn-container">
+                        <lightning-button label="Book"
+                                          variant="brand"
+                                          onclick={handleBook}
+                                          class="save-btn slds-m-left_x-small">
+                        </lightning-button>
+                    </div>
+                </div>
+            </lightning-card>
+        </div>
+    </div>
+</template>

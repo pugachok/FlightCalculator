@@ -1,0 +1,94 @@
+.content-container {
+    padding: 0 1rem;
+}
+
+.hr {
+    width: 100%;
+    border: 1px solid #eaeaea;
+}
+
+.airport-info {
+    display: flex;
+    justify-content: center;
+    margin: 0.5rem 0;
+    padding: 1rem;
+    border: 2px solid #eaeaea;
+}
+
+.airport-container {
+    width: 40%;
+}
+
+.client-info {
+    margin-top: 1rem;
+}
+
+.footer-container {
+    margin-top: 1rem;
+}
+
+.icon-container {
+    margin: 1.5rem 0.5rem;
+}
+
+.header-section {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.header-section h2 {
+    margin: auto 0 auto 0.5rem;
+}
+
+.client-inputs-container {
+    margin: 0.5rem 0;
+    padding: 1rem;
+    border: 2px solid #eaeaea;
+    display: flex;
+    justify-content: center;
+}
+
+.client-inputs-first-column, .client-inputs-second-column {
+    width: 40%;
+}
+
+.client-inputs-first-column {
+    margin-right: 2rem;
+}
+
+.date-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.input-date, .input-time {
+    width: 100%;
+}
+
+.input-date {
+    margin-right: 1rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0.5rem;
+}
+
+.error-container {
+    display: flex;
+    justify-content: center;
+    background: rgb(243, 108, 93);
+    color: white;
+    width: 95%;
+    height: 2rem;
+    margin-top: 0.5rem;
+    margin: auto;
+}
+
+.error-container h2 {
+    margin: auto;
+}
