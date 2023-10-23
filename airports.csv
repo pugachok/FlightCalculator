@@ -1,0 +1,1002 @@
+country_code,region_name,iata,icao,airport,latitude,longitude
+CA,Ontario,YYB,CYYB,North Bay/Jack Garland Airport,46.363602,-79.422798
+CA,British Columbia,ZAA,,Alice Arm/Silver City Water Aerodrome,55.46670151,-129.4830017
+CA,Ontario,YXZ,CYXZ,Wawa Airport,47.96670151,-84.78669739
+CA,Manitoba,XGL,,Granville Lake Airport,56.3,-100.5
+CA,Manitoba,ZAC,CZAC,York Landing Airport,56.08940125,-96.08920288
+CA,Yukon,YXY,CYXY,Erik Nielsen Whitehorse International Airport,60.70959854,-135.0670013
+CA,Quebec,YGP,CYGP,Michel-Pouliot Gaspe Airport,48.77529907,-64.47859955
+CA,British Columbia,YXX,CYXX,Abbotsford International Airport,49.02529907,-122.3610001
+CA,Ontario,YXU,CYXU,London International Airport,43.035599,-81.1539
+CA,Manitoba,YGO,CYGO,Gods Lake Narrows Airport,54.55889893,-94.49140167
+CA,British Columbia,YXT,CYXT,Northwest Regional Airport,54.468498,-128.576009
+CA,British Columbia,YGN,,Greenway Sound Water Aerodrome,50.839,-126.775
+CA,Manitoba,YGM,CYGM,Gimli Industrial Park Airport,50.62810135,-97.04329681
+CA,Quebec,YGL,CYGL,La Grande Riviere Airport,53.62530136,-77.70420074
+CA,Ontario,YGK,CYGK,Kingston/Norman Rogers Airport,44.22529984,-76.59690094
+CA,British Columbia,YXS,CYXS,Prince George Airport,53.88940048,-122.6790009
+CA,Quebec,XGR,CYLU,Kangiqsualujjuaq (Georges River) Airport,58.71139908,-65.99279785
+CA,Ontario,YXR,CYXR,Earlton (Timiskaming Regional) Airport,47.69740065,-79.84734535
+CA,Yukon,YXQ,CYXQ,Beaver Creek Airport,62.41030121,-140.8670044
+CA,Nunavut,YXP,CYXP,Pangnirtung Airport,66.14499664,-65.71360016
+CA,British Columbia,QBC,CYBD,Bella Coola Airport,52.387501,-126.596001
+CA,Northwest Territories,YGH,CYGH,Fort Good Hope Airport,66.24079895,-128.651001
+CA,New Brunswick,ZBF,CZBF,Bathurst Airport,47.62969971,-65.73889923
+CA,Quebec,ZBM,CZBM,Roland-Desourdy Airport,45.29079819,-72.74140167
+CA,Nunavut,YXN,CYXN,Whale Cove Airport,62.24000168,-92.59809875
+CA,British Columbia,YGG,,Ganges Water Aerodrome,48.8545,-123.4969
+CA,Ontario,YXL,CYXL,Sioux Lookout Airport,50.11389923,-91.90529633
+CA,Quebec,YXK,CYXK,Rimouski Airport,48.47809982,-68.49690247
+CA,British Columbia,ZEL,CBBC,Bella Bella (Campbell Island) Airport,52.185001,-128.156994
+CA,British Columbia,YXJ,CYXJ,Fort St. John Airport (North Peace Airport),56.238098,-120.739998
+CA,Alberta,YXH,CYXH,Medicine Hat Airport,50.01890182,-110.7210007
+CA,Saskatchewan,YXE,CYXE,Saskatoon John G. Diefenbaker International Airport,52.17079926,-106.6999969
+CA,Alberta,YXD,CYXD,Edmonton City Centre (Blatchford Field) Airport,53.57249832,-113.5210037
+CA,British Columbia,YXC,CYXC,Cranbrook/Canadian Rockies International Airport,49.6108017,-115.7819977
+CA,British Columbia,YGE,,Gorge Harbour Water Aerodrome,50.0994,-125.0235
+CA,Quebec,ZEM,CZEM,Eastmain River Airport,52.22639847,-78.52249908
+CA,Northwest Territories,YWY,CYWY,Wrigley Airport,63.20940018,-123.4369965
+CA,British Columbia,YZT,CYZT,Port Hardy Airport,50.68059921,-127.3669968
+CA,British Columbia,YWS,,Whistler/Green Lake Water Aerodrome,50.14360046,-122.9489975
+CA,Ontario,YWR,,White River Water Aerodrome,48.6269,-85.223297
+CA,Yukon,ZFA,CZFA,Faro Airport,62.20750046,-133.3760071
+CA,Saskatchewan,ZFD,CZFD,Fond-du-Lac Airport,59.33440018,-107.1819992
+CA,Quebec,YWQ,,Chutes-des-Passes/Lac Margane Water Aerodrome,49.9434,-71.138
+CA,Northwest Territories,ZFM,CZFM,Fort McPherson Airport,67.40750122,-134.8609924
+CA,Northwest Territories,ZFN,CZFN,Tulita Airport,64.909697,-125.572998
+CA,Ontario,YWP,CYWP,Webequie Airport,52.9593934,-87.37486839
+CA,Newfoundland and Labrador,YWM,,Williams Harbour Airport,52.56689835,-55.78469849
+CA,Alberta,YGC,,Grande Cache Airport,53.91690063,-118.8740005
+CA,British Columbia,YWL,CYWL,Williams Lake Airport,52.18310165,-122.0540009
+CA,British Columbia,YGB,CYGB,Texada/Gillies Bay Airport,49.69419861,-124.5179977
+CA,Alberta,ZFW,,Fairview Airport,56.08140183,-118.4349976
+CA,Ontario,KIF,,Kingfisher Lake Airport,53.01250076,-89.8553009
+CA,Newfoundland and Labrador,YFX,,St. Lewis (Fox Harbour) Airport,52.37279892,-55.6739006
+CA,Northwest Territories,YFS,CYFS,Fort Simpson Airport,61.7602005,-121.2369995
+CA,Newfoundland and Labrador,YWK,CYWK,Wabush Airport,52.9219017,-66.86440277
+CA,British Columbia,ZGF,CZGF,Grand Forks Airport,49.0155983,-118.4309998
+CA,Northwest Territories,YWJ,CYWJ,Deline Airport,65.21109772,-123.435997
+CA,British Columbia,YWH,CYWH,Victoria Harbour Water Airport,48.42498589,-123.3888674
+CA,Manitoba,ZGI,CZGI,Gods River Airport,54.83969879,-94.07859802
+CA,Northwest Territories,YFR,CYFR,Fort Resolution Airport,61.18080139,-113.6900024
+CA,Manitoba,ZGR,CZGR,Little Grand Rapids Airport,52.04560089,-95.46579742
+CA,Manitoba,YWG,CYWG,Winnipeg James Armstrong Richardson International Airport,49.90999985,-97.23989868
+CA,Quebec,YWB,CYKG,Kangiqsujuaq (Wakeham Bay) Airport,61.58860016,-71.92939758
+CA,Quebec,ZGS,,La Romaine Airport,50.259701,-60.679401
+CA,Ontario,YWA,CYWA,Petawawa Airport,45.95220184,-77.31919861
+CA,Manitoba,YFO,CYFO,Flin Flon Airport,54.67810059,-101.6819992
+CA,Ontario,XKS,CYAQ,Kasabonika Airport,53.52470016,-88.64279938
+CA,Northwest Territories,YFL,,Fort Reliance Water Aerodrome (CJN8),62.7,-109.167
+CA,Northwest Territories,YFJ,CYWE,Wekweeti Airport,64.190804,-114.077002
+CA,Ontario,YVZ,CYVZ,Deer Lake Airport,52.65579987,-94.06140137
+CA,Ontario,YVV,CYVV,Wiarton Airport,44.7458,-81.107201
+CA,Saskatchewan,YVT,CYVT,Buffalo Narrows Airport,55.84189987,-108.4179993
+CA,Alberta,YFI,,Fort MacKay/Firebag Aerodrome,57.275833,-110.976666
+CA,Manitoba,XLB,CZWH,Lac Brochet Airport,58.61750031,-101.4690018
+CA,Ontario,YFH,CYFH,Fort Hope Airport,51.56190109,-87.90779877
+CA,British Columbia,YVR,CYVR,Vancouver International Airport,49.19390106,-123.1839981
+CA,Northwest Territories,YVQ,CYVQ,Norman Wells Airport,65.28160095,-126.7979965
+CA,Quebec,YVP,CYVP,Kuujjuaq Airport,58.09609985,-68.42690277
+CA,Quebec,YFG,,Fontanges Airport,54.55390167,-71.1733017
+CA,Quebec,YFE,CYFE,Forestville Airport,48.74610138,-69.09719849
+CA,Quebec,YVO,CYVO,Val-d'Or Airport,48.05329895,-77.78279877
+CA,Nunavut,YVN,CYVN,Cape Dyer Airport,66.593,-61.5776
+CA,Nunavut,YVM,CYVM,Qikiqtarjuaq Airport,67.54579926,-64.03140259
+CA,New Brunswick,YFC,CYFC,Fredericton International Airport,45.8689003,-66.53720093
+CA,Alberta,ZHP,CZHP,High Prairie Airport,55.39360046,-116.4749985
+CA,Alberta,YVG,CYVG,Vermilion Airport,53.35580063,-110.8239975
+CA,Nunavut,YFB,CYFB,Iqaluit Airport,63.756402,-68.555801
+CA,British Columbia,YVE,CYVK,Vernon Regional Airport,50.24810028,-119.3310013
+CA,Saskatchewan,YVC,CYVC,La Ronge (Barber Field) Airport,55.15140152,-105.262001
+CA,Quebec,YVB,CYVB,Bonaventure Airport,48.07109833,-65.46029663
+CA,Quebec,YUY,CYUY,Rouyn-Noranda Airport,48.20610046,-78.83560181
+CA,Nunavut,YUX,CYUX,Hall Beach Airport,68.77610016,-81.2425
+CA,Nunavut,YUT,CYUT,Repulse Bay Airport,66.5214,-86.224701
+CA,Ontario,YFA,CYFA,Fort Albany Airport,52.20140076,-81.69689941
+CA,Quebec,YUL,CYUL,Montreal-Pierre Elliott Trudeau International Airport,45.47060013,-73.74079895
+CA,Quebec,YUD,CYMU,Umiujaq Airport,56.53609848,-76.51830292
+CA,Northwest Territories,YUB,CYUB,Tuktoyaktuk/James Gruben Airport,69.4332962,-133.026001
+CA,Quebec,YEY,CYEY,Amos/Magny Airport,48.563903,-78.249702
+CA,Northwest Territories,YEV,CYEV,Inuvik (Mike Zubko) Airport,68.30419922,-133.4830017
+CA,Ontario,YTZ,CYTZ,Billy Bishop Toronto City Airport (Toronto Island Airport),43.627499,-79.396202
+CA,Nunavut,YEU,CYEU,Eureka Aerodrome,79.99469757,-85.81420136
+CA,British Columbia,YTX,,Telegraph Creek Airport,57.916698,-131.117007
+CA,Manitoba,ZJG,CZJG,Jenpeg Airport,54.51890182,-98.0460968
+CA,British Columbia,YTU,,Tasu Water Aerodrome,52.76305556,-132.04
+CA,Saskatchewan,YTT,,Tisdale Airport,52.83670044,-104.0670013
+CA,Alberta,YET,CYET,Edson Airport,53.57889938,-116.4649963
+CA,Ontario,YTS,CYTS,Timmins/Victor M. Power Airport,48.56969833,-81.37670136
+CA,Ontario,YTR,CYTR,CFB Trenton,44.1189003,-77.52809906
+CA,Quebec,YTQ,CYTQ,Tasiujaq Airport,58.6678009,-69.95580292
+CA,Ontario,YER,CYER,Fort Severn Airport,56.01890182,-87.67610168
+CA,British Columbia,YTP,,Tofino Harbour Water Aerodrome,49.155,-125.91
+CA,Ontario,KEW,,Keewaywin Airport,52.99110031,-92.83640289
+CA,Ontario,YTO,,metropolitan area4,43.653056,-79.383056
+CA,Quebec,YTM,CYFJ,Mont Tremblant International Airport,46.409401,-74.779999
+CA,Manitoba,KES,CZEE,Kelsey Airport,56.03749847,-96.50969696
+CA,Manitoba,ZJN,CZJN,Swan River Airport,52.12060165,-101.2360001
+CA,Ontario,YTL,CYTL,Big Trout Lake Airport,53.81779861,-89.89689636
+CA,Yukon,XMP,,Macmillan Pass Airport,63.18109894,-130.2019959
+CA,British Columbia,DGF,,Douglas Lake Airport,50.16546005,-120.1712734
+CA,Ontario,ZKE,CZKE,Kashechewan Airport,52.28250122,-81.67780304
+CA,Quebec,ZKG,,Kegaska Airport,50.19580078,-61.26580048
+CA,Quebec,ZLT,,La Tabatiere Airport,50.8307991,-58.9756012
+CA,British Columbia,ZMH,CZML,South Cariboo Regional Airport,51.73609924,-121.3330002
+CA,Saskatchewan,YEN,CYEN,Estevan Regional Aerodrome,49.21030045,-102.9660034
+CA,Ontario,SUR,,Summer Beaver Airport,52.70859909,-88.54190063
+CA,Manitoba,YTH,CYTH,Thompson Airport,55.80110168,-97.86419678
+CA,Ontario,YEM,CYEM,Manitowaning/Manitoulin East Municipal Airport,45.84280014,-81.85810089
+CA,British Columbia,ZMT,CZMT,Masset Airport,54.02750015,-132.125
+CA,British Columbia,ZNA,,Nanaimo Harbour Water Airport,49.18330002,-123.9499969
+CA,Ontario,YEL,CYEL,Elliot Lake Municipal Airport,46.35139847,-82.56140137
+CA,British Columbia,YTG,,Sullivan Bay Water Aerodrome,50.885359,-126.831069
+CA,Nunavut,YEK,CYEK,Arviat Airport,61.09420013,-94.07080078
+CA,British Columbia,ZNU,,Namu Water Aerodrome,51.862825,-127.869357
+CA,Quebec,YTF,CYTF,Alma Airport,48.50889969,-71.64189911
+CA,Nunavut,YTE,CYTE,Cape Dorset Airport,64.23000336,-76.52670288
+CA,Manitoba,YTD,CZLQ,Thicket Portage Airport,55.31890106,-97.70780182
+CA,British Columbia,YTB,,Hartley Bay Water Aerodrome,53.416698,-129.25
+CA,Ontario,YTA,CYTA,Pembroke Airport,45.86439896,-77.25170135
+CA,Northwest Territories,YSY,CYSY,Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport,71.99389648,-125.2429962
+CA,British Columbia,YSX,,Bella Bella/Shearwater Water Aerodrome,52.150002,-128.08299
+CA,British Columbia,ZOF,,Ocean Falls Water Aerodrome,52.36669922,-127.7170029
+CA,Alberta,YEG,CYEG,Edmonton International Airport,53.30970001,-113.5800018
+CA,Prince Edward Island,YSU,CYSU,Summerside Airport,46.44060135,-63.83359909
+CA,Manitoba,YST,CYST,St. Theresa Point Airport,53.84560013,-94.85189819
+CA,Ontario,YSP,CYSP,Marathon Aerodrome,48.75529861,-86.3443985
+CA,Manitoba,PIW,CZMN,Pikwitonei Airport,55.58890152,-97.16419983
+CA,Ontario,ZPB,CZPB,Sachigo Lake Airport,53.89110184,-92.1964035
+CA,British Columbia,YSN,CZAM,Salmon Arm Airport,50.682802,-119.228996
+CA,Manitoba,XPK,CZFG,Pukatawagan Airport,55.74919891,-101.2659988
+CA,Northwest Territories,YSM,CYSM,Fort Smith Airport,60.02030182,-111.961998
+CA,Saskatchewan,ZPO,CZPO,Pinehouse Lake Airport,55.52809906,-106.5820007
+CA,British Columbia,ZQS,,Queen Charlotte City Water Aerodrome,53.267,-132.083
+CA,New Brunswick,YSL,CYSL,Saint-Leonard Aerodrome,47.15750122,-67.83470154
+CA,Nunavut,YSK,CYSK,Sanikiluaq Airport,56.53779984,-79.24669647
+CA,New Brunswick,YSJ,CYSJ,Saint John Airport,45.31610107,-65.89029694
+CA,Ontario,YEB,,Bar River Airport,46.42029953,-84.09220123
+CA,Ontario,YSI,,Parry Sound/Frying Pan Island-Sans Souci Water Aerodrome,45.173302,-80.137497
+CA,Ontario,YSH,CYSH,Smiths Falls-Montague Airport,44.94580078,-75.94059753
+CA,Alberta,YEA,,metropolitan area1,53.544389,-113.490927
+CA,Northwest Territories,YSG,CYLK,Lutselk'e Airport,62.418303,-110.681998
+CA,Saskatchewan,YSF,CYSF,Stony Rapids Airport,59.25030136,-105.8410034
+CA,British Columbia,YSE,CYSE,Squamish Airport,49.78170013,-123.1620026
+CA,Alberta,YSD,CYSD,CFB Suffield,50.26670074,-111.1829987
+CA,Quebec,YSC,CYSC,Sherbrooke Airport,45.43859863,-71.69139862
+CA,Ontario,YSB,CYSB,Sudbury Airport,46.625,-80.79889679
+CA,Nova Scotia,YSA,,Sable Island Aerodrome,43.930292,-59.960289
+CA,British Columbia,YRV,CYRV,Revelstoke Airport,50.96670151,-118.1829987
+CA,Ontario,ZRJ,CZRJ,Round Lake (Weagamow Lake) Airport,52.9435997,-91.31279755
+CA,Nunavut,YRT,CYRT,Rankin Inlet Airport,62.81140137,-92.11579895
+CA,Manitoba,YRS,CYRS,Red Sucker Lake Airport,54.16719818,-93.55719757
+CA,British Columbia,YRR,,Stuart Island Airport,50.40944743,-125.1316166
+CA,Quebec,YRQ,CYRQ,Trois-Rivieres Airport,46.35279846,-72.67939758
+CA,Ontario,ZSJ,CZSJ,Sandy Lake Airport,53.06420135,-93.3443985
+CA,Ontario,YRO,CYRO,Ottawa/Rockcliffe Airport,45.46030045,-75.64610291
+CA,British Columbia,YRN,,Rivers Inlet Water Aerodrome,51.683985,-127.264044
+CA,British Columbia,ZST,CZST,Stewart Aerodrome,55.93541045,-129.9824345
+CA,Alberta,YRM,CYRM,Rocky Mountain House Airport,52.42969894,-114.9039993
+CA,Ontario,YRL,CYRL,Red Lake Airport,51.06689835,-93.79309845
+CA,Quebec,YRJ,CYRJ,Roberval Airport,48.52000046,-72.26560211
+CA,Quebec,YRI,CYRI,Riviere-du-Loup Airport,47.76440048,-69.58470154
+CA,British Columbia,ZSW,CZSW,Prince Rupert/Seal Cove Water Airport,54.33330154,-130.2830048
+CA,Newfoundland and Labrador,YRG,,Rigolet Airport,54.17969894,-58.45750046
+CA,Newfoundland and Labrador,YRF,CYCA,Cartwright Airport,53.68280029,-57.04190063
+CA,Northwest Territories,YDW,,Obre Lake/North of Sixty Airport,60.31639862,-103.1289978
+CA,British Columbia,YRC,,Refuge Cove Water Aerodrome,50.1234,-124.843
+CA,Nunavut,YRB,CYRB,Resolute Bay Airport,74.71690369,-94.9693985
+CA,Northwest Territories,YRA,CYRA,Gameti/Rae Lakes Airport,64.1160965,-117.3099976
+CA,Quebec,ZTB,,Tete-a-la-Baleine Airport,50.67440033,-59.38359833
+CA,British Columbia,YQZ,CYQZ,Quesnel Airport,53.02610016,-122.5100021
+CA,Nova Scotia,YQY,CYQY,Sydney/J.A. Douglas McCurdy Airport,46.1614,-60.047798
+CA,Newfoundland and Labrador,YQX,CYQX,Gander International Airport / CFB Gander,48.93690109,-54.56809998
+CA,Saskatchewan,YQW,CYQW,North Battleford Airport (Cameron McIntosh Airport),52.76919937,-108.2440033
+CA,Manitoba,ZTM,CZTM,Shamattawa Airport,55.86560059,-92.08139801
+CA,Saskatchewan,YQV,CYQV,Yorkton Municipal Airport,51.26470184,-102.461998
+CA,Alberta,YQU,CYQU,Grande Prairie Airport,55.17969894,-118.8850021
+CA,Ontario,YQT,CYQT,Thunder Bay International Airport,48.37189865,-89.32389832
+CA,British Columbia,ZTS,,Tahsis Water Aerodrome,49.91669846,-126.6669998
+CA,British Columbia,TUX,,Tumbler Ridge Airport,55.02500153,-120.9349976
+CA,Ontario,YQS,CYQS,St. Thomas Municipal Airport,42.77000046,-81.1108017
+CA,Ontario,ZUC,CZUC,Ignace Municipal Airport,49.42969894,-91.71779633
+CA,Saskatchewan,YQR,CYQR,Regina International Airport,50.43190002,-104.6660004
+CA,British Columbia,YQQ,CYQQ,CFB Comox,49.71080017,-124.887001
+CA,Ontario,YQN,CYQN,Nakina Airport,50.18280029,-86.6964035
+CA,Northwest Territories,LAK,CYKD,Aklavik/Freddie Carmichael Airport,68.223297,-135.00599
+CA,Newfoundland and Labrador,ZUM,CZUM,Churchill Falls Airport,53.56190109,-64.10639954
+CA,Saskatchewan,ZWL,CZWL,Wollaston Lake Airport,58.10689926,-103.1719971
+CA,New Brunswick,YQM,CYQM,Greater Moncton International Airport,46.11220169,-64.6785965
+CA,Alberta,YQL,CYQL,Lethbridge Airport,49.63029861,-112.8000031
+CA,Alberta,TIL,,Cheadle Airport,51.05749893,-113.6240005
+CA,Ontario,YQK,CYQK,Kenora Airport,49.78829956,-94.36309814
+CA,Nova Scotia,YQI,CYQI,Yarmouth Airport,43.82690048,-66.08809662
+CA,Yukon,YQH,CYQH,Watson Lake Airport,60.11640167,-128.8220062
+CA,Alberta,NML,,Fort McMurray/Mildred Lake Airport,57.05559921,-111.5739975
+CA,Ontario,YQG,CYQG,Windsor International Airport,42.27560043,-82.95559692
+CA,Alberta,YQF,CYQF,Red Deer Regional Airport,52.18220139,-113.8939972
+CA,Manitoba,YQD,CYQD,The Pas Airport,53.97140121,-101.0910034
+CA,Quebec,YQC,CYHA,Quaqtaq Airport,61.04639816,-69.61779785
+CA,Quebec,YQB,CYQB,Quebec City Jean Lesage International Airport,46.7911,-71.393303
+CA,Ontario,YQA,CYQA,Muskoka Airport,44.97470093,-79.30329895
+CA,British Columbia,YPZ,CYPZ,Burns Lake Airport,54.37639999,-125.9509964
+CA,Alberta,YPY,CYPY,Fort Chipewyan Airport,58.76720047,-111.1169968
+CA,Quebec,YPX,CYPX,Puvirnituq Airport,60.05059814,-77.28690338
+CA,British Columbia,YPW,CYPW,Powell River Airport,49.83420181,-124.5
+CA,British Columbia,YPT,,Pender Harbour Water Aerodrome,49.623785,-124.024884
+CA,Nova Scotia,YPS,CYPD,Port Hawkesbury Airport,45.65670013,-61.36809921
+CA,Nunavut,JOJ,,Doris Lake Aerodrome,68.12527466,-106.5852814
+CA,British Columbia,YPR,CYPR,Prince Rupert Airport,54.28609848,-130.4450073
+CA,Ontario,YPQ,CYPQ,Peterborough Airport,44.22999954,-78.36329651
+CA,Ontario,YPO,CYPO,Peawanuck Airport,54.98809814,-85.44329834
+CA,Quebec,YPN,CYPN,Port-Menier Airport,49.83639908,-64.28859711
+CA,Ontario,YPM,CYPM,Pikangikum Airport,51.81969833,-93.97329712
+CA,Northwest Territories,TNS,,Tungsten (Cantung) Airport,61.95690155,-128.2030029
+CA,Ontario,YPL,CYPL,Pickle Lake Airport,51.44639969,-90.21420288
+CA,Quebec,YPJ,CYLA,Aupaluk Airport,59.29669952,-69.59970093
+CA,British Columbia,YPI,,Port Simpson Water Aerodrome,54.5667,-130.432999
+CA,Quebec,YPH,CYPH,Inukjuak Airport,58.47190094,-78.07689667
+CA,Manitoba,YPG,CYPG,Portage la Prairie/Southport Airport,49.903099,-98.273817
+CA,Alberta,YPE,CYPE,Peace River Airport,56.226898,-117.446999
+CA,Ontario,YPD,,Parry Sound Area Municipal Airport,45.2575,-79.829697
+CA,Northwest Territories,YPC,CYPC,Nora Aliqatchialuk Ruben Airport,69.36083812,-124.07547
+CA,British Columbia,YPB,,Alberni Valley Regional Airport,49.321899,-124.931
+CA,Saskatchewan,YPA,CYPA,Prince Albert (Glass Field) Airport,53.21419907,-105.6729965
+CA,Ontario,YOW,CYOW,Ottawa Macdonald-Cartier International Airport,45.32249832,-75.66919708
+CA,Ontario,YOS,CYOS,Billy Bishop Regional Airport,44.59030151,-80.83750153
+CA,Alberta,YOP,CYOP,Rainbow Lake Airport,58.49140167,-119.4079971
+CA,Ontario,YOO,CYOO,Oshawa Airport,43.922798,-78.894997
+CA,Alberta,YOJ,CYOJ,High Level Airport,58.62139893,-117.1650009
+CA,Quebec,YOI,,Opinaca Aerodrome,52.221944,-76.611944
+CA,Manitoba,YOH,CYOH,Oxford House Airport,54.93330002,-95.27890015
+CA,Ontario,YOG,CYKP,Ogoki Post Airport,51.65859985,-85.90170288
+CA,Alberta,YOE,,Donnelly Airport,55.7094,-117.094002
+CA,Alberta,JHL,,Fort MacKay/Albian Aerodrome,57.22389984,-111.4189987
+CA,British Columbia,SYF,,Silva Bay Seaplane Base,49.15,-123.696
+CA,British Columbia,CFQ,,Creston Aerodrome,49.03689957,-116.4980011
+CA,Alberta,YOD,CYOD,CFB Cold Lake (R.W. McNair Airport),54.40499878,-110.2789993
+CA,Yukon,YOC,CYOC,Old Crow Airport,67.57060242,-139.8390045
+CA,Northwest Territories,YOA,CYOA,Ekati Airport,64.69889832,-110.6149979
+CA,Northwest Territories,YNX,,Snap Lake Airport,63.593601,-110.905998
+CA,Quebec,YNS,CYHH,Nemiscau Airport,51.69110107,-76.13559723
+CA,Newfoundland and Labrador,YNP,,Natuashish Airport,55.913898,-61.184399
+CA,Ontario,YNO,,North Spirit Lake Airport,52.49000168,-92.97109985
+CA,Northwest Territories,DVK,,Diavik Airport,64.51139832,-110.2890015
+CA,Northwest Territories,GHK,,Gahcho Kue Aerodrome,63.4264983,-109.1931659
+CA,British Columbia,DUQ,,Duncan Airport,48.75453362,-123.7097025
+CA,Quebec,YNM,CYNM,Matagami Airport,49.76169968,-77.80280304
+CA,Saskatchewan,YNL,CYNL,Points North Landing Airport,58.27669907,-104.0820007
+CA,British Columbia,YNH,CYNH,Hudson's Hope Airport,56.03559875,-121.9759979
+CA,Manitoba,YNE,CYNE,Norway House Airport,53.95830154,-97.84420013
+CA,Quebec,YND,CYND,Gatineau-Ottawa Executive Airport,45.521702,-75.563599
+CA,Quebec,YNC,CYNC,Wemindji Airport,53.01060104,-78.83110046
+CA,Quebec,YNA,CYNA,Natashquan Airport,50.18999863,-61.78919983
+CA,Quebec,YMX,CYMX,Montreal-Mirabel International Airport,45.679501,-74.038696
+CA,Quebec,YMW,CYMW,Maniwaki Airport,46.27280045,-75.99060059
+CA,Nunavut,YMV,,Mary River Aerodrome,71.32416667,-79.35694444
+CA,British Columbia,YMU,,Mansons Landing Water Aerodrome,50.06669998,-124.9830017
+CA,Quebec,YMT,CYMT,Chibougamau/Chapais Airport,49.77190018,-74.52809906
+CA,Quebec,YMQ,,metropolitan area3,45.508611,-73.553889
+CA,British Columbia,YMP,,Port McNeill Airport,50.57559967,-127.0289993
+CA,Ontario,YMO,CYMO,Moosonee Airport,51.29109955,-80.60780334
+CA,Nunavut,UZM,,Hope Bay Aerodrome,68.156,-106.618
+CA,Newfoundland and Labrador,YMN,CYFT,Makkovik Airport,55.07690048,-59.18640137
+CA,Alberta,YMM,CYMM,Fort McMurray International Airport,56.65330124,-111.2220001
+CA,Quebec,YML,CYML,Charlevoix Airport,47.59749985,-70.22389984
+CA,Saskatchewan,YMJ,CYMJ,CFB Moose Jaw (C.M. McEwen Airport),50.33029938,-105.5589981
+CA,Newfoundland and Labrador,YMH,CYMH,Mary's Harbour Airport,52.30279922,-55.84719849
+CA,Ontario,YMG,CYMG,Manitouwadge Airport,49.08390045,-85.86060333
+CA,British Columbia,YMF,,Montague Harbour Water Aerodrome,48.817,-123.2
+CA,Ontario,WNN,,Wunnummin Lake Airport,52.89390182,-89.28919983
+CA,Quebec,YME,CYME,Matane Airport,48.85689926,-67.45330048
+CA,Northwest Territories,YMD,CYMD,Mould Bay Airport,76.2392,-119.3216
+CA,British Columbia,YMB,,Merritt Airport,50.12279892,-120.7470016
+CA,Yukon,YMA,CYMA,Mayo Airport,63.61640167,-135.8679962
+CA,British Columbia,YLY,CYNJ,Langley Regional Airport,49.10079956,-122.6309967
+CA,British Columbia,YLW,CYLW,Kelowna International Airport,49.95610046,-119.3779984
+CA,Alberta,WPC,CZPC,Pincher Creek Airport,49.52059937,-113.9970016
+CA,Nunavut,YLT,CYLT,Alert Airport,82.51779938,-62.2806015
+CA,Quebec,YLS,,Lebel-sur-Quevillon Airport,49.03030014,-77.01719666
+CA,British Columbia,WPL,,Powell Lake Water Aerodrome,49.88330078,-124.5329971
+CA,Manitoba,YLR,CYLR,Leaf Rapids Airport,56.51330185,-99.98529816
+CA,Quebec,YLQ,CYLQ,La Tuque Airport,47.40969849,-72.78890228
+CA,Quebec,YLP,CYLP,Mingan Airport,50.2869,-64.1528
+CA,Quebec,SSQ,,La Sarre Airport,48.91719818,-79.1785965
+CA,Yukon,YLM,,Clinton Creek Airport,64.475545,-140.741748
+CA,Alberta,YLL,CYLL,Lloydminster Airport,53.30920029,-110.072998
+CA,British Columbia,CJH,,Chilko Lake (Tsylos Park Lodge) Aerodrome,51.62609863,-124.1419983
+CA,Ontario,YLK,CYLS,Lake Simcoe Regional Airport,44.48529816,-79.55560303
+CA,Saskatchewan,YLJ,CYLJ,Meadow Lake Airport,54.12530136,-108.5230026
+CA,Ontario,YLH,CYLH,Lansdowne House Airport,52.1955986,-87.93419647
+CA,Northwest Territories,YLE,,Whati Airport,63.13169861,-117.2460022
+CA,Ontario,YLD,CYLD,Chapleau Airport,47.81999969,-83.34670258
+CA,Nunavut,YLC,CYLC,Kimmirut Airport,62.84999847,-69.88330078
+CA,Alberta,YLB,CYLB,Lac La Biche Airport,54.77030182,-112.0319977
+CA,Ontario,YKZ,CYKZ,Buttonville Municipal Airport,43.86220169,-79.37000275
+CA,Saskatchewan,YKY,CYKY,Kindersley Regional Airport,51.51750183,-109.1809998
+CA,Ontario,YKX,CYKX,Kirkland Lake Airport,48.21030045,-79.98139954
+CA,Quebec,YKU,,Chisasibi Airport,53.80559921,-78.91690063
+CA,British Columbia,YKT,,Klemtu Water Aerodrome,52.60763455,-128.5217571
+CA,Quebec,YKQ,CYKQ,Waskaganish Airport,51.47330093,-78.75830078
+CA,Quebec,YKL,CYKL,Schefferville Airport,54.80530167,-66.80529785
+CA,British Columbia,YKK,,Kitkatla Water Aerodrome,53.79999924,-130.4329987
+CA,Nunavut,YZS,CYZS,Coral Harbour Airport,64.19329834,-83.35939789
+CA,Saskatchewan,YKJ,CYKJ,Key Lake Airport,57.2560997,-105.6179962
+CA,Quebec,YKG,CYAS,Kangirsuk Airport,60.02719879,-69.99919891
+CA,Ontario,YKF,CYKF,Region of Waterloo International Airport,43.46080017,-80.37860107
+CA,Manitoba,YKE,,Knee Lake Airport,54.915298,-94.798103
+CA,Ontario,YKD,CYKM,Kincardine Municipal Airport,44.201401,-81.606697
+CA,Ontario,YKD,CYKM,Kincardine Municipal Airport,44.201401,-81.606697
+CD,Mai-Ndombe,INO,FZBA,Inongo Airport,-1.947219968,18.28580093
+CD,Equateur,BSU,FZEN,Basankusu Airport,1.22472,19.7889
+CD,Haut-Katanga,KEC,FZQG,Kasenga Airport,-10.35000038,28.63299942
+CD,Lualaba,KWZ,FZQM,Kolwezi Airport,-10.76589966,25.50569916
+CD,Kasai,BAN,FZVR,Basongo Airport,-4.315802,20.414891
+CD,Nord-Kivu,GOM,FZNA,Goma International Airport,-1.670809984,29.2385006
+CD,Bas-Uele,BZU,FZKJ,Buta Zega Airport,2.818350077,24.79369926
+CD,Mongala,LIQ,FZGA,Lisala Airport,2.17066,21.496901
+CD,Kasai,PFR,FZVS,Ilebo Airport,-4.329919,20.590124
+CD,Kongo Central,LZI,FZAL,Luozi Airport,-4.949999809,14.13300037
+CD,Sud-Ubangi,LIE,FZFA,Libenge Airport,3.632999897,18.63299942
+CD,Kasai Oriental,LJA,FZVA,Lodja Airport,-3.417000055,23.45000076
+CD,Tshopo,FKI,FZIC,Bangoka International Airport,0.481638998,25.33799934
+CD,Kasai,KGA,FZUA,Kananga Airport,-5.900050163,22.46920013
+CD,Sankuru,IKL,FZGV,Ikela Airport,-1.048109,23.372501
+CD,Mai-Ndombe,LUS,FZCE,Lusanga Airport,-4.800000191,18.71699905
+CD,Kongo Central,NKL,FZAR,Nkolo-Fuma Airport,-5.421,14.8169
+CD,Mai-Ndombe,MSM,FZCV,Masi-Manimba Airport,-4.782999992,17.85000038
+CD,Nord-Kivu,IRP,FZJH,Matari Airport,2.827610016,27.5883007
+CD,Tshopo,YAN,FZIR,Yangambi Airport,0.782999992,24.46699905
+CD,Kasai Oriental,LBO,FZVI,Lusambo Airport,-4.961669922,23.37829971
+CD,Maniema,PUN,FZOP,Punia Airport,-1.366999984,26.33300018
+CD,Haut-Katanga,PWO,FZQC,Pweto Airport,-8.467000008,28.88299942
+CD,Mai-Ndombe,IDF,FZCB,Idiofa Airport,-5,19.60000038
+CD,Kinshasa,FIH,FZAA,N'djili Airport (Kinshasa Int'l Airport),-4.38575,15.4446
+CD,Kasai,LZA,FZUG,Luiza Airport,-7.183000088,22.39999962
+CD,Mai-Ndombe,FDU,FZBO,Bandundu Airport,-3.311320066,17.38170052
+CD,Kasai Oriental,MJM,FZWA,Mbuji Mayi Airport,-6.121240139,23.56900024
+CD,Equateur,MDK,FZEA,Mbandaka Airport,0.022600001,18.2887001
+CD,Mongala,BMB,FZFU,Bumba Airport,2.18278,22.481701
+CD,Ituri,BUX,FZKA,Bunia Airport,1.565719962,30.2208004
+CD,Maniema,KND,FZOA,Kindu Airport,-2.919179916,25.91539955
+CD,Tanganyika,KBO,FZRM,Kabalo Airport,-6.083000183,26.91699982
+CD,Tanganyika,BDV,FZRB,Moba Airport,-7.066999912,29.78300095
+CD,Kasai,TSH,FZUK,Tshikapa Airport,-6.43833,20.794701
+CD,Maniema,KLY,FZOD,Kamisuku Airport,-2.578000069,26.73399925
+CD,Equateur,BDT,FZFD,Gbadolite Airport,4.253210068,20.97529984
+CD,Kinshasa,NLO,FZAB,N'Dolo Airport,-4.326660156,15.32750034
+CD,Nord-Ubangi,KLI,FZFP,Kotakoli Air Base,4.15763998,21.65089989
+CD,Tshuapa,BNB,FZGN,Boende Airport,-0.216999993,20.85000038
+CD,Nord-Kivu,BNC,FZNP,Beni Airport,0.575,29.4739
+CD,Haut-Katanga,KNM,FZTK,Kaniama Airport,-7.583000183,24.14999962
+CD,Kongo Central,BOA,FZAJ,Boma Airport,-5.854000092,13.06400013
+CD,Haut-Katanga,FBM,FZQA,Lubumbashi International Airport,-11.59130001,27.53089905
+CD,Mai-Ndombe,KKW,FZCA,Kikwit Airport,-5.035769939,18.78560066
+CD,Nord-Kivu,RUE,,Butembo Airport,0.117142,29.312992
+CD,Kasai Oriental,KBN,FZWT,Tunta Airport,-6.132999897,24.4829998
+CD,Sud-Ubangi,GMA,FZFK,Gemena Airport,3.235369921,19.77129936
+CD,Tanganyika,FMI,FZRF,Kalemie Airport,-5.875559807,29.25
+CD,Sud-Kivu,BKY,FZMA,Kavumu Airport,-2.308979988,28.80879974
+CD,Haut-Katanga,KAP,FZSK,Kapanga Airport,-8.350000381,22.58300018
+CD,Tanganyika,KOO,FZRQ,Kongolo Airport,-5.39444,26.99
+CD,Tanganyika,MNO,FZRA,Manono Airport,-7.288889885,27.39439964
+CD,Kongo Central,MAT,FZAM,Matadi Tshimpi Airport,-5.799610138,13.44040012
+CD,Haut-Katanga,KIL,,Kilwa Airport,-9.2886,28.3269
+CD,Kongo Central,MNB,FZAG,Muanda Airport (Moanda Airport),-5.930860043,12.35179996
+CD,Mai-Ndombe,KRZ,FZBT,Basango Mboliasa Airport,-1.434999943,19.02400017
+CD,Kasai,MEW,FZVM,Mweka Airport,-4.849999905,21.54999924
+CD,Kasai Oriental,GDJ,FZWC,Gandajika Airport,-6.733,23.950001
+CD,Mai-Ndombe,KGN,FZOK,Kasongo Lunda Airport,-4.532999992,26.61700058
+CD,Mai-Ndombe,NIO,FZBI,Nioki Airport,-2.717499971,17.68470001
+CF,Haute-Kotto,ODA,FEFW,Ouadda Airport,8.010560036,22.39859962
+CF,Haut-Mbomou,IMO,FEFZ,Zemio Airport,5.050000191,25.14999962
+CF,Vakaga,GDI,,Gordil Airport,9.581117,21.728172
+CF,Bangui,BGF,FEFF,Bangui M'Poko International Airport,4.398479939,18.51880074
+CF,Mbomou,RFA,FEGR,Rafai Airport,4.988609791,23.92779922
+CF,Mambere-Kadei,BBT,FEFT,Berberati Airport,4.221580029,15.78639984
+CF,Haute-Kotto,AIG,FEFY,Yalinga Airport,6.519999981,23.26000023
+CF,Mbomou,BMF,FEGM,Bakouma Airport,5.693999767,22.8010006
+CF,Haut-Mbomou,MKI,FEGE,M'Boki Airport,5.333010197,25.93190002
+CF,Nana-Mambere,BOP,FEFO,Bouar Airport,5.958000183,15.63700008
+CF,Ouham,BCF,FEGU,Bouca Airport,6.517000198,18.2670002
+CF,Ouham,BTG,FEGF,Batangafo Airport,7.314109802,18.30879974
+CF,Mambere-Kadei,CRF,FEFC,Carnot Airport,4.936999798,15.89400005
+CF,Bamingui-Bangoran,NDL,FEFN,N'Dele Airport,8.427206039,20.63515663
+CF,Haute-Kotto,KWD,,Kavadja Airport,-1.95,124.9666667
+CF,Ouham-Pende,BOZ,FEGZ,Bozoum Airport,6.344170094,16.32189941
+CF,Haute-Kotto,BIV,FEFR,Bria Airport,6.527780056,21.98940086
+CF,Ouham,BSN,FEFS,Bossangoa Airport,6.492000103,17.42900085
+CF,Vakaga,IRO,FEFI,Birao Airport,10.23639965,22.71689987
+CF,Bamingui-Bangoran,KOL,,Koumala Airport,8.4965,21.2565
+CF,Mbomou,BGU,FEFG,Bangassou Airport,4.784999847,22.78100014
+CF,Vakaga,ODJ,FEGO,Ouanda Djalle Airport,8.899999619,22.78300095
+CF,Ouaka,BBY,FEFM,Bambari Airport,5.846940041,20.64749908
+CF,Bamingui-Bangoran,GDA,,Gounda Airport,9.316703,21.185
+CG,Cuvette,MKJ,FCOM,Makoua Airport,-0.017000001,15.58300018
+CG,Sangha,SOE,FCOS,Souanke Airport,2.066999912,14.13300037
+CG,Plateaux,DJM,FCBD,Djambala Airport,-2.532999992,14.75
+CG,Plateaux,LCO,FCBL,Lague Airport,-2.450000048,14.53299999
+CG,Niari,DIS,FCPL,Dolisie Airport,-4.20635,12.6599
+CG,Plateaux,LKC,,Lekana Airport,-2.313,14.606
+CG,Brazzaville,BZV,FCBB,Maya-Maya Airport,-4.251699924,15.25300026
+CG,Bouenza,MUY,FCBM,Mouyondzi Airport,-4.014873981,13.96611214
+CG,Cuvette-Ouest,EWO,FCOE,Ewo Airport,-0.883000016,14.80000019
+CG,Pointe-Noire,PNR,FCPP,Pointe Noire Airport,-4.816030025,11.88659954
+CG,Niari,MSX,FCMM,Mossendjo Airport,-2.950000048,12.69999981
+CG,Brazzaville,ANJ,FCBZ,Zanaga Airport,-2.849999905,13.81700039
+CG,Lekoumou,SIB,FCBS,Sibiti Airport,-3.683000088,13.35000038
+CG,Plateaux,GMM,FCOG,Gamboma Airport,-1.829403,15.885237
+CG,Likouala,ION,FCOI,Impfondo Airport,1.616999984,18.06699944
+CG,Sangha,EPN,,Epena Airport,1.3666667,17.4833333
+CG,Bouenza,NKY,FCBY,Yokangassi Airport,-4.223077,13.286347
+CG,Sangha,OUE,FCOU,Ouesso Airport,1.615990043,16.03790092
+CG,Niari,KMK,FCPA,Makabana Airport,-3.48300004,12.61699963
+CG,Pool,KNJ,FCBK,Kindamba Airport,-3.950000048,14.5170002
+CG,Cuvette,BOE,FCOB,Boundji Airport,-1.032999992,15.38300037
+CG,Cuvette,OLL,,Oyo Ollombo Airport,-1.226666,15.91
+CG,Cuvette,OKG,,Okoyo Airport,-1.448330045,15.07330036
+CG,Likouala,BTB,FCOT,Betou Airport,3.049999952,18.5
+CG,Cuvette,FTX,FCOO,Owando Airport,-0.531350017,15.95009995
+CG,Cuvette-Ouest,KEE,FCOK,Kelle Airport,-0.082999997,14.53299999
+CH,Luzern,EML,LSME,Emmen Air Base,47.092444,8.305184
+CH,Graubunden,SMV,LSZS,Samedan Airport (Engadin Airport),46.53409958,9.884110451
+CH,Ticino,LUG,LSZA,Lugano Airport,46.00429916,8.910579681
+CH,Sankt Gallen,ACH,LSZR,St. Gallen-Altenrhein Airport,47.48500061,9.560770035
+CH,Basel-Stadt,BSL,LFSB,EuroAirport Basel-Mulhouse-Freiburg,47.59,7.529167
+CH,Valais,SIR,LSGS,Sion Airport,46.21960068,7.326759815
+CH,Zurich,ZRH,LSZH,Zurich Airport,47.464699,8.54917
+CH,Geneve,GVA,LSGG,Geneva Airport,46.23809814,6.108950138
+CH,Bern,BRN,LSZB,Bern Airport,46.91410065,7.497149944
+CH,Nidwalden,BXO,LSZC,Buochs Airport,46.974444,8.396944
+CI,Abidjan,OFI,DIOF,Ouango Fitini Airport,9.600000381,-4.050000191
+CI,Abidjan,ABJ,DIAP,Port Bouet Airport (Felix Houphouet Boigny Int'l),5.261390209,-3.926290035
+CI,Savanes,BXI,DIBI,Boundiali Airport,9.532999992,-6.467000008
+CI,Sassandra-Marahoue,DJO,DIDL,Daloa Airport,6.792809963,-6.473189831
+CI,Goh-Djiboua,DIV,DIDV,Divo Airport,6.904614,-5.362358
+CI,Bas-Sassandra,ZSS,DISS,Sassandra Airport,4.928329945,-6.132780075
+CI,Savanes,FEK,DIFK,Ferkessedougou Airport,9.6,-5.1833333
+CI,Bas-Sassandra,TXU,DITB,Tabou Airport,4.437809467,-7.362728119
+CI,Montagnes,MJC,DIMN,Man Airport,7.272069931,-7.587359905
+CI,Vallee du Bandama,KTC,,Katiola Airport,8.1329,-5.0657
+CI,Lacs,DIM,DIDK,Dimbokro Airport,6.651669979,-4.64056015
+CI,Bas-Sassandra,SPY,DISP,San Pedro Airport,4.746719837,-6.660820007
+CI,Vallee du Bandama,BYK,DIBK,Bouake Airport,7.738800049,-5.07366991
+CI,Woroba,SEO,DISG,Seguela Airport,7.968329906,-6.710830212
+CI,Comoe,OGO,DIAU,Abengourou Airport,6.715559959,-3.470279932
+CI,Goh-Djiboua,GGN,DIGA,Gagnoa Airport,6.132999897,-5.949999809
+CI,Denguele,KEO,DIOD,Odienne Airport,9.5,-7.566999912
+CI,Comoe,ABO,DIAO,Aboisso Airport,5.461944,-3.234722
+CI,Zanzan,BDK,DIBU,Soko Airport,8.017219543,-2.761940002
+CI,Zanzan,BQO,DIBN,Tehini Airport,9.277500153,-3.025279999
+CI,Bas-Sassandra,BBV,DIGN,Nero-Mer Airport,4.643413067,-6.923961639
+CI,Abidjan,ASK,DIYO,Yamoussoukro Airport,6.903170109,-5.365580082
+CI,Montagnes,GGO,DIGL,Guiglo Airport,6.534711,-7.526847
+CI,Woroba,TOZ,DITM,Mahana Airport,8.2934,-7.674
+CI,Savanes,HGO,DIKO,Korhogo Airport,9.387180328,-5.556660175
+CK,Cook Islands,PZK,NCPK,Pukapuka Island Airfield,-10.9145,-165.8393
+CK,Cook Islands,AIU,NCAT,Enua Airport,-19.96780014,-158.1190033
+CK,Cook Islands,AIT,NCAI,Aitutaki Airport,-18.83090019,-159.7640076
+CK,Cook Islands,MUK,NCMK,Mauke Airport,-20.13610077,-157.3450012
+CK,Cook Islands,MHX,NCMH,Manihiki Island Airport,-10.3767004,-161.0019989
+CK,Cook Islands,PYE,NCPY,Tongareva Airport,-9.014369965,-158.0324097
+CK,Cook Islands,MGS,NCMG,Mangaia Airport,-21.89598656,-157.906662
+CK,Cook Islands,MOI,NCMR,Mitiaro Airport (Nukuroa Airport),-19.84250069,-157.7030029
+CK,Cook Islands,RAR,NCRG,Rarotonga International Airport,-21.20269966,-159.8059998
+CL,Magallanes,WPU,SCGZ,Guardiamarina Zanartu Airport,-54.93109894,-67.626297
+CL,Antofagasta,CJC,SCCF,El Loa Airport,-22.49819946,-68.9036026
+CL,Los Lagos,WCA,SCST,Gamboa Airport,-42.49029922,-73.77279663
+CL,Los Lagos,WCH,SCTN,Chaiten Airfield,-42.93280029,-72.69909668
+CL,Los Lagos,PUX,SCPV,El Mirador Airport,-41.34939957,-72.94670105
+CL,La Araucania,PZS,SCTC,Maquehue Airport,-38.76679993,-72.63710022
+CL,Valparaiso,VAP,SCRD,Rodelillo Airfield,-33.06809998,-71.55750275
+CL,La Araucania,ZPC,SCPC,Pucon Airport,-39.2928009,-71.91590118
+CL,Aisen del General Carlos Ibanez del Campo,BBA,SCBA,Balmaceda Airport,-45.91609955,-71.6894989
+CL,Atacama,CPO,SCAT,Desierto de Atacama Airport,-27.26119995,-70.77919769
+CL,Los Lagos,ZOS,SCJO,Canal Bajo Carlos Hott Siebert Airport,-40.61119843,-73.06099701
+CL,Aisen del General Carlos Ibanez del Campo,GXQ,SCCY,Teniente Vidal Airfield,-45.59420013,-72.10610199
+CL,Coquimbo,COW,SCQB,Coquimbo Airport,-30.198889,-71.246944
+CL,Atacama,VLR,SCLL,Vallenar Airport,-28.59639931,-70.7559967
+CL,La Araucania,ZIC,SCTO,Victoria Airport,-38.24560165,-72.34860229
+CL,Valparaiso,LOB,SCAN,San Rafael Airport,-32.81420135,-70.646698
+CL,Coquimbo,LSC,SCSE,La Florida Airport,-29.916201,-71.199501
+CL,Los Lagos,MHC,SCPQ,Mocopulli Airport,-42.340388,-73.715693
+CL,Antofagasta,TTC,SCTT,Las Breas Airport,-25.56430054,-70.37590027
+CL,Biobio,LSQ,SCGE,Maria Dolores Airport,-37.40169907,-72.42539978
+CL,Aisen del General Carlos Ibanez del Campo,LGR,SCHR,Cochrane Airfield,-47.24380112,-72.58840179
+CL,Biobio,YAI,SCCH,General Bernardo O'Higgins Airport,-36.58250046,-72.03140259
+CL,Los Lagos,FRT,SCFI,Frutillar Airport,-41.11700058,-73.05000305
+CL,Los Lagos,FFU,SCFT,Futaleufu Airfield,-43.18920135,-71.85109711
+CL,Valparaiso,KNA,SCVM,Vina del Mar Airport,-32.9496,-71.4786
+CL,Aisen del General Carlos Ibanez del Campo,CCH,SCCC,Chile Chico Airfield,-46.58330154,-71.68740082
+CL,Magallanes,PNT,SCNT,Teniente Julio Gallardo Airport,-51.67150116,-72.52839661
+CL,Atacama,CNR,SCRA,Chanaral Airport,-26.33250046,-70.6072998
+CL,Los Lagos,WAP,SCAP,Alto Palena Airfield,-43.61190033,-71.80609894
+CL,La Araucania,ZCO,SCQP,La Araucania Airport,-38.9259,-72.6515
+CL,Los Rios,ZAL,SCVD,Pichoy Airport,-39.65000153,-73.08609772
+CL,Tarapaca,IQQ,SCDA,Diego Aracena International Airport,-20.53520012,-70.1812973
+CL,Maule,TLX,SCTL,Panguilemo Airport,-35.37779999,-71.60169983
+CL,Region Metropolitana de Santiago,SCL,SCEL,Comodoro Arturo Merino Benitez International Airport,-33.39300156,-70.78579712
+CL,Los Lagos,ZUD,SCAC,Pupelde Airfield,-41.904251,-73.796571
+CL,Antofagasta,ANF,SCFA,Cerro Moreno International Airport,-23.444501,-70.445099
+CL,Magallanes,SMB,SCSB,Franco Bianco Airport,-52.73669815,-69.33360291
+CL,Los Lagos,PMC,SCTE,El Tepual Airport,-41.43889999,-73.09400177
+CL,Antofagasta,TOQ,SCBE,Barriles Airport,-22.14109993,-70.06289673
+CL,Arica y Parinacota,ARI,SCAR,Chacalluta International Airport,-18.348499,-70.338699
+CL,Valparaiso,IPC,SCIP,Mataveri International Airport (Isla de Pascua Airport),-27.16480064,-109.4219971
+CL,Aisen del General Carlos Ibanez del Campo,WPA,SCAS,Cabo Juan Roman Airfield,-45.39920044,-72.67030334
+CL,Coquimbo,OVL,SCOV,El Tuqui Airport,-30.55920029,-71.17559814
+CL,Atacama,ESR,SCES,Ricardo Garcia Posada Airport,-26.31110001,-69.76519775
+CL,Magallanes,PUQ,SCCI,Presidente Carlos Ibanez del Campo International Airport,-53.002602,-70.854599
+CL,Biobio,CCP,SCIE,Carriel Sur International Airport,-36.772701,-73.063103
+CL,Magallanes,WPR,SCFM,Capitan Fuentes Martinez Airport,-53.25370026,-70.31919861
+CM,Ouest,DSC,FKKS,Dschang Airport,5.449999809,10.06700039
+CM,Sud,KBI,FKKB,Kribi Airport,2.873889923,9.977780342
+CM,Sud-Ouest,TKC,FKKC,Tiko Airport,4.089190006,9.3605299
+CM,Littoral,DLA,FKKD,Douala International Airport,4.006080151,9.719479561
+CM,Nord-Ouest,BLC,FKKG,Bali Airport,5.895277778,10.03388889
+CM,Ouest,FOM,FKKM,Foumban Nkounja Airport,5.636919975,10.75080013
+CM,Littoral,NKS,FKAN,Nkongsamba Airport,4.949999809,9.932999611
+CM,Centre,YAO,FKKY,Yaounde Airport,3.83604002,11.52350044
+CM,Extreme-Nord,KLE,FKKH,Kaele Airport,10.09249973,14.44559956
+CM,Sud-Ouest,MMF,FKKF,Mamfe Airport,5.704170227,9.306389809
+CM,Est,BTA,FKKO,Bertoua Airport,4.54861021,13.72609997
+CM,Ouest,BFX,FKKU,Bafoussam Airport,5.536920071,10.35459995
+CM,Extreme-Nord,MVR,FKKL,Salak Airport,10.4513998,14.25739956
+CM,Sud,EBW,FKKW,Ebolowa Airport,2.875999928,11.18500042
+CM,Adamaoua,NGE,FKKN,Ngaoundere,7.357009888,13.55920029
+CM,Extreme-Nord,GXX,FKKJ,Yagoua Airport,10.35610008,15.23719978
+CM,Nord-Ouest,BPC,FKKV,Bamenda Airport,6.039239883,10.1225996
+CM,Nord,GOU,FKKR,Garoua International Airport,9.335889816,13.37010002
+CM,Est,OUR,FKKI,Batouri Airport,4.474999905,14.36250019
+CM,Centre,NSI,FKYS,Yaounde Nsimalen International Airport,3.722559929,11.5532999
+CN,Sichuan,TFU,,Chengdu Tianfu International Airport,30.319, 104.445
+CN,Henan,AYN,ZHAY,Anyang Airport,36.1339,114.344002
+CN,Beijing,PKX,ZBAD,Beijing Daxing International Airport,39.509945,116.41092
+CN,Xinjiang,KJI,ZWKN,Kanas Airport,48.2223,86.9959
+CN,Guizhou,WMT,ZUMT,Zunyi Maotai Airport,27.81638,106.33268
+CN,Yunnan,KMG,ZPPP,Kunming Changshui International Airport,25.1019444,102.9291667
+CN,Jilin,YSQ,ZYSQ,Songyuan Chaganhu Airport,44.938114,124.550178
+CN,Nei Mongol,UCB,,Ulanqab Airport,41.129722,113.108056
+CN,Jiangxi,KOW,ZSGZ,Ganzhou Huangjin Airport,25.853333,114.778889
+CN,Xinjiang,TLQ,ZWTP,Turpan Jiaohe Airport,43.0308,89.0987
+CN,Xinjiang,KRL,ZWKL,Korla Airport,41.69779968,86.12889862
+CN,Guangdong,MXZ,ZGMX,Meixian Airport,24.35000038,116.1330032
+CN,Xinjiang,KRY,ZWKM,Karamay Airport,45.46655,84.9527
+CN,Xinjiang,AAT,ZWAT,Altay Airport,47.74988556,88.0858078
+CN,Heilongjiang,OHE,ZYMH,Mohe Gulian Airport,52.91277778,122.43
+CN,Nei Mongol,ERL,ZBER,Erenhot Saiwusu International Airport,43.4225,112.096667
+CN,Guizhou,KWE,ZUGY,Guiyang Longdongbao International Airport,26.53849983,106.8010025
+CN,Guangxi,KWL,ZGKL,Guilin Liangjiang International Airport,25.21809959,110.0390015
+CN,Nei Mongol,NZL,,Zhalantun Chengjisihan Airport,47.865833,122.767503
+CN,Nei Mongol,NZH,ZBMZ,Manzhouli Xijiao Airport,49.566667,117.33
+CN,Jiangsu,NTG,ZSNT,Nantong Xingdong Airport,32.07080078,120.9759979
+CN,Anhui,FUG,ZSFY,Fuyang Xiguan Airport,32.882157,115.734364
+CN,Guangdong,FUO,ZGFS,Foshan Shadi Airport,23.08329964,113.0699997
+CN,Fujian,LCX,ZSLO,Longyan Guanzhishan Airport,25.67469978,116.7470016
+CN,Heilongjiang,LDS,ZYLD,Yichun Lindu Airport,47.75205556,129.019125
+CN,Henan,NNY,ZHNY,Nanyang Jiangying Airport,32.980801,112.614998
+CN,Guangxi,NNG,ZGNN,Nanning Wuxu International Airport,22.60829926,108.1719971
+CN,Heilongjiang,FYJ,ZYFY,Fuyuan Dongji Airport,48.199494,134.366447
+CN,Xinjiang,NLT,ZWNL,Xinyuan Nalati Airport,43.4318,83.3786
+CN,Xinjiang,FYN,ZWFY,Fuyun Koktokay Airport,46.804169,89.512006
+CN,Hainan,BAR,,Qionghai Bo'ao Airport,19.13824,110.454775
+CN,Gansu,THQ,ZLTS,Tianshui Maijishan Airport,34.55939865,105.8600006
+CN,Nei Mongol,BAV,ZBOW,Baotou Airport,40.56000137,109.9970016
+CN,Shaanxi,LFQ,,Linfen Qiaoli Airport,36.132629,111.641236
+CN,Yunnan,NLH,,Ninglang Luguhu Airport,27.5403,100.7593
+CN,Jiangsu,NKG,ZSNJ,Nanjing Lukou International Airport,31.74200058,118.8619995
+CN,Hubei,LHK,ZHGH,Laohekou Airport,32.38940048,111.6949997
+CN,Gansu,LHW,ZLLL,Lanzhou Zhongchuan International Airport,36.51520157,103.6200027
+CN,Chongqing,LIA,ZULP,Liangping Airport,30.679399,107.786003
+CN,Xizang,NGQ,ZUAL,Ngari Gunsa Airport,32.1,80.05305556
+CN,Guizhou,ACX,ZUYI,Xingyi Wanfenglin Airport,25.08638889,104.9594444
+CN,Zhejiang,NGB,ZSNB,Ningbo Lishe International Airport,29.82670021,121.461998
+CN,Yunnan,JMJ,ZPJM,Lancang Jingmai Airport,22.415833,99.786389
+CN,Yunnan,LJG,ZPLJ,Lijiang Sanyi Airport,26.68000031,100.2460022
+CN,Heilongjiang,NDG,ZYQQ,Qiqihar Sanjiazi Airport,47.23960114,123.9179993
+CN,Guizhou,LLB,ZULB,Libo Airport (Qiannan Airport),25.4525,107.961667
+CN,Hunan,LLF,ZGLG,Yongzhou Lingling Airport,26.338661,111.610043
+CN,Nei Mongol,TGO,ZBTL,Tongliao Airport,43.556702,122.199997
+CN,Shaanxi,LLV,ZBLL,Luliang Airport,37.683333,111.142778
+CN,Jilin,NBS,ZYBS,Changbaishan Airport,42.066944,127.602222
+CN,Beijing,NAY,ZBNY,Beijing Nanyuan Airport,39.78279877,116.3880005
+CN,Sichuan,NAO,ZUNC,Nanchong Gaoping Airport,30.79545,106.1626
+CN,Yunnan,LNJ,ZPLC,Lincang Airport,23.73810005,100.0250015
+CN,Gansu,LNL,ZLLN,Longnan Chengzhou Airport,33.788,105.797
+CN,Guizhou,LPF,ZUPS,Liupanshui Yuezhao Airport,26.609417,104.979
+CN,Yunnan,CWJ,ZPCW,Cangyuan Washan Airport,23.273889,99.373611
+CN,Sichuan,BZX,,Bazhong Enyang Airport,31.73842,106.644872
+CN,Nei Mongol,AEQ,,Ar Horqin Airport,43.87042,120.15958
+CN,Guangxi,AEB,ZGBS,Baise Bama Airport,23.72060013,106.9599991
+CN,Guizhou,BFJ,ZUBJ,Bijie Feixiong Airport,27.267066,105.472097
+CN,Guizhou,ZYI,ZUZY,Zunyi Xinzhou Airport,27.5895,107.0007
+CN,Guangdong,ZUH,ZGSD,Zhuhai Jinwan Airport (Zhuhai Sanzao Airport),22.006399,113.375999
+CN,Anhui,BFU,ZSBB,Bengbu Airport,32.84773333,117.3202444
+CN,Hebei,ZQZ,ZBZJ,Zhangjiakou Ningyuan Airport,40.73860168,114.9300003
+CN,Guangxi,BHY,ZGBH,Beihai Fucheng Airport,21.5394,109.293999
+CN,Ningxia,ZHY,ZLZW,Zhongwei Shapotou Airport (Zhongwei Xiangshan Airport),37.573125,105.154454
+CN,Guangdong,ZHA,ZGZJ,Zhanjiang Airport,21.214399,110.358002
+CN,Beijing,BJS,,metropolitan area4,39.904167,116.407222
+CN,Yunnan,ZAT,ZPZT,Zhaotong Airport,27.32559967,103.7549973
+CN,Gansu,YZY,ZLZY,Zhangye Ganzhou Airport,38.80189896,100.6750031
+CN,Hebei,BPE,ZBDH,Qinhuangdao Beidaihe Airport,39.666389,119.058889
+CN,Xinjiang,BPL,ZWBL,Bole Alashankou Airport,44.895,82.3
+CN,Xizang,BPX,ZUBD,Qamdo Bamda Airport,30.55360031,97.10829926
+CN,Yunnan,BSD,ZPBS,Baoshan Yunduan Airport,25.053301,99.168297
+CN,Qinghai,YUS,ZLYS,Yushu Batang Airport,32.83638889,97.03638889
+CN,Yunnan,YUA,ZPYM,Yuanmou Air Base,25.73749924,101.8820038
+CN,Jiangsu,YTY,ZSYA,Yangzhou Taizhou Airport,32.560184,119.717141
+CN,Guangdong,CAN,ZGGG,Guangzhou Baiyun International Airport,23.39240074,113.2990036
+CN,Hebei,CDE,ZBCD,Chengde Puning Airport,41.1225,118.073889
+CN,Jiangsu,YNZ,ZSYN,Yancheng Nanyang International Airport,33.425833,120.203056
+CN,Hunan,CGD,ZGCD,Changde Taohuayuan Airport,28.91889954,111.6399994
+CN,Shandong,YNT,ZSYT,Yantai Penglai International Airport,37.657222,120.987222
+CN,Henan,CGO,ZHCC,Zhengzhou Xinzheng International Airport,34.5196991,113.8410034
+CN,Jilin,CGQ,ZYCC,Changchun Longjia International Airport,43.99620056,125.6849976
+CN,Jilin,YNJ,ZYYJ,Yanji Chaoyangchuan Airport,42.88280106,129.451004
+CN,Liaoning,CHG,ZYCY,Chaoyang Airport,41.538101,120.434998
+CN,Yunnan,LUM,ZPMS,Dehong Mangshi Airport,24.4011,98.5317
+CN,Nei Mongol,CIF,ZBCF,Chifeng Yulong Airport,42.23500061,118.9079971
+CN,Shaanxi,CIH,ZBCZ,Changzhi Wangcun Airport,36.247501,113.125999
+CN,Heilongjiang,YLN,ZYYL,Yilan Airport,46.317,129.567
+CN,Chongqing,CKG,ZUCK,Chongqing Jiangbei International Airport,29.71920013,106.6419983
+CN,Liaoning,YKH,ZYYK,Yingkou Lanqi Airport,40.542524,122.3586
+CN,Zhejiang,YIW,ZSYW,Yiwu Airport,29.34469986,120.0319977
+CN,Xinjiang,YIN,ZWYN,Yining Airport,43.955799,81.330299
+CN,Hubei,YIH,ZHYC,Yichang Sanxia Airport,30.55655,111.479988
+CN,Sichuan,AHJ,ZUHY,Hongyuan Airport,32.53154,102.35224
+CN,Nei Mongol,YIE,ZBES,Arxan Yi'ershi Airport,47.3106,119.9117
+CN,Jiangxi,YIC,ZSYC,Yichun Mingyueshan Airport,27.8025,114.3062
+CN,Liaoning,CNI,ZYCH,Changhai Airport,39.26666667,122.6669444
+CN,Hunan,CSX,ZGHA,Changsha Huanghua International Airport,28.18919945,113.2200012
+CN,Sichuan,CTU,ZUUU,Chengdu Shuangliu International Airport,30.57850075,103.9469986
+CN,Shanxi,YCU,ZBYC,Yuncheng Guangong Airport,35.116391,111.0313889
+CN,Sichuan,YBP,ZUYB,Yibin Caiba Airport,28.80055556,104.545
+CN,Jiangsu,CZX,ZSCG,Changzhou Benniu Airport,31.919701,119.778999
+CN,Shaanxi,DAT,ZBDT,Datong Yungang Airport,40.060299,113.482002
+CN,Sichuan,DAX,ZUDX,Dazhou Heshi Airport,31.1302,107.4295
+CN,Jilin,DBC,,Baicheng Chang'an Airport,45.505278,123.019722
+CN,Jiangsu,XUZ,ZSXZ,Xuzhou Guanyin Airport,34.059056,117.555278
+CN,Sichuan,DCY,ZUDC,Daocheng Yading Airport,29.323056,100.053333
+CN,Liaoning,DDG,ZYDD,Dandong Langtou Airport,40.0247,124.286003
+CN,Hebei,XNT,ZBXT,Xingtai Dalian Airport,36.8831,114.4293
+CN,Qinghai,XNN,ZLXN,Xining Caojiabao Airport,36.5275,102.042999
+CN,Fujian,XMN,ZSAM,Xiamen Gaoqi International Airport,24.54400063,118.1279984
+CN,Shaanxi,XIY,ZLXY,Xi'an Xianyang International Airport,34.447102,108.751999
+CN,Shaanxi,AKA,ZLAK,Ankang Wulipu Airport,32.708099,108.931
+CN,Yunnan,DIG,ZPDQ,Diqing Shangri-La Airport,27.7936,99.6772
+CN,Guangdong,XIN,ZGXN,Xingning Air Base,24.1492,115.758003
+CN,Nei Mongol,XIL,ZBXH,Xilinhot Airport,43.91559982,115.9639969
+CN,Xizang,LXA,ZULS,Lhasa Gonggar Airport,29.29780006,90.91190338
+CN,Sichuan,XIC,ZUXC,Xichang Qingshan Airport,27.9890995,102.1839981
+CN,Hubei,XFN,ZHXF,Xiangyang Liuji Airport,32.1506,112.291
+CN,Liaoning,DLC,ZYTL,Dalian Zhoushuizi International Airport,38.96569824,121.5390015
+CN,Liaoning,XEN,ZYXC,Xingcheng Airport,40.58029938,120.697998
+CN,Yunnan,DLU,ZPDL,Dali Airport,25.649401,100.319
+CN,Henan,LYA,ZHLY,Luoyang Beijiao Airport,34.74110031,112.3880005
+CN,Gansu,DNH,ZLDH,Dunhuang Airport,40.16109848,94.80919647
+CN,Nei Mongol,WZQ,,Urad Middle Banner Airport,41.45958,108.53454
+CN,Chongqing,WXN,ZUWX,Wanzhou Wuqiao Airport,30.8017,108.433
+CN,Xinjiang,AKU,ZWAK,Aksu Airport,41.262501,80.291702
+CN,Guangxi,WUZ,ZGWZ,Wuzhou Xijiang Airport,23.456699,111.248001
+CN,Jiangsu,LYG,ZSLG,Lianyungang Baitabu Airport,34.571667,118.873611
+CN,Shandong,LYI,ZSLY,Linyi Shubuling Airport,35.04610062,118.4120026
+CN,Jiangsu,WUX,ZSWX,Sunan Shuofang International Airport,31.49440002,120.4290009
+CN,Shaanxi,WUT,ZBXZ,Xinzhou Wutaishan Airport,38.597456,112.969173
+CN,Fujian,WUS,ZSWY,Wuyishan Airport,27.7019,118.000999
+CN,Hubei,WUH,ZHHH,Wuhan Tianhe International Airport,30.7838,114.208
+CN,Nei Mongol,WUA,ZBUH,Wuhai Airport,39.7934,106.7993
+CN,Shandong,DOY,ZSDY,Dongying Shengli Airport,37.50859833,118.788002
+CN,Heilongjiang,DQA,ZYDQ,Daqing Sartu Airport,46.74638889,125.1405556
+CN,Zhejiang,WNZ,ZSWZ,Wenzhou Longwan International Airport,27.912201,120.851997
+CN,Nei Mongol,DSN,ZBDS,Ordos Ejin Horo Airport,39.49,109.8613889
+CN,Yunnan,WNH,ZPWS,Wenshan Puzhehei Airport,23.5583,104.3255
+CN,Heilongjiang,DTU,,Wudalianchi Airport,48.445,126.133
+CN,Guangxi,LZH,ZGZH,Liuzhou Bailian Airport,24.2075,109.390999
+CN,Sichuan,LZO,ZULZ,Luzhou Yunlong Airport,29.03,105.47
+CN,Anhui,WHU,ZSWU,Wuhu Airport,31.3906,118.408997
+CN,Hunan,WGN,ZGSY,Shaoyang Wugang Airport,26.802,110.642
+CN,Xizang,LZY,ZUNZ,Nyingchi Mainling Airport,29.30330086,94.33529663
+CN,Shandong,WEH,ZSWH,Weihai Dashuibo Airport,37.18709946,122.2289963
+CN,Shandong,WEF,ZSWF,Weifang Airport,36.646702,119.119003
+CN,Hunan,DYG,ZGDY,Zhangjiajie Hehua Airport,29.1028,110.443001
+CN,Hubei,WDS,ZHSY,Shiyan Wudangshan Airport,32.591667,110.907778
+CN,Chongqing,DZU,ZUDZ,Dazu Air Base,29.636227,105.773621
+CN,Guizhou,TEN,ZUTR,Tongren Fenghuang Airport,27.883333,109.308889
+CN,Yunnan,TCZ,ZUTC,Tengchong Tuofeng Airport,24.93805556,98.48583333
+CN,Xinjiang,TCG,ZWTC,Tacheng Airport,46.67250061,83.34079742
+CN,Hubei,ENH,ZHES,Enshi Xujiaping Airport,30.32029915,109.4850006
+CN,Sichuan,GHN,ZUGH,Guanghan Airport,30.9485,104.3296
+CN,Shandong,TAO,ZSQD,Qingdao Liuting International Airport,36.26610184,120.3740005
+CN,Shaanxi,TYN,ZBYN,Taiyuan Wusu International Airport,37.74689865,112.6279984
+CN,Guangdong,SZX,ZGSZ,Shenzhen Bao'an International Airport,22.63929939,113.810997
+CN,Jiangsu,SZV,ZSSZ,Suzhou Guangfu Airport,31.2631,120.401001
+CN,Hainan,SYX,ZJSY,Sanya Phoenix International Airport,18.30290031,109.4120026
+CN,Yunnan,SYM,ZPSM,Pu'er Simao Airport,22.793301,100.959
+CN,Qinghai,GMQ,ZLGL,Golog Maqin Airport,34.418066,100.301144
+CN,Xinjiang,SXJ,ZWSS,Shanshan Airport,42.9117012,90.24749756
+CN,Liaoning,AOG,ZYAS,Anshan Teng'ao Airport,41.105301,122.853996
+CN,Anhui,TXN,ZSTX,Huangshan Tunxi International Airport,29.73329926,118.2559967
+CN,Guangdong,SWA,ZGOW,Jieyang Chaoshan International Airport,23.552,116.5033
+CN,Qinghai,GOQ,ZLGM,Golmud Airport,36.4006,94.786102
+CN,Hebei,TVS,ZBTS,Tangshan Sannuhe Airport,39.71780014,118.0026245
+CN,Fujian,SQJ,,Sanming Shaxian Airport,26.4263,117.8336
+CN,Jiangxi,SQD,ZSSR,Shangrao Sanqingshan Airport,28.3797,117.9643
+CN,Shaanxi,UYN,ZLYL,Yulin Yuyang Airport,38.35971,109.590927
+CN,Gansu,GXH,ZLXH,Gannan Xiahe Airport,34.8105,102.6447
+CN,Xinjiang,URC,ZWWW,Urumqi Diwopu International Airport,43.90710068,87.47419739
+CN,Sichuan,GYS,ZUGU,Guangyuan Panlong Airport,32.39110184,105.7020035
+CN,Ningxia,GYU,ZLGY,Guyuan Liupanshan Airport,36.07888889,106.2169444
+CN,Hainan,HAK,ZJHK,Haikou Meilan International Airport,19.93490028,110.4589996
+CN,Guangxi,HCJ,ZGHC,Hechi Jinchengjiang Airport,24.805,107.6997
+CN,Hebei,HDG,ZBHD,Handan Airport,36.52583333,114.4255556
+CN,Heilongjiang,HEK,ZYHE,Heihe Airport,50.17162094,127.3088837
+CN,Nei Mongol,HET,ZBHH,Hohhot Baita International Airport,40.851398,111.823997
+CN,Anhui,AQG,ZSAQ,Anqing Tianzhushan Airport,30.582199,117.050003
+CN,Anhui,HFE,ZSOF,Hefei Xinqiao International Airport (formerly Hefei Luogang International Airport),31.78000069,117.2979965
+CN,Zhejiang,HGH,ZSHC,Hangzhou Xiaoshan International Airport,30.22949982,120.4339981
+CN,Hebei,SJW,ZBSJ,Shijiazhuang Zhengding International Airport,38.28070068,114.6969986
+CN,Jiangsu,HIA,ZSSH,Huai'an Lianshui Airport,33.79083333,119.125
+CN,Hunan,HJJ,ZGCJ,Huaihua Zhijiang Airport,27.44111111,109.7
+CN,Shaanxi,SIA,ZLSN,Xi'an Xiguan Airport,34.376701,109.120003
+CN,Hubei,SHS,ZHSS,Shashi Airport,30.324289,112.279861
+CN,Nei Mongol,HLD,ZBLA,Hulunbuir Hailar Airport,49.20500183,119.8249969
+CN,Nei Mongol,HLH,ZBUL,Ulanhot Airport,46.195333,122.008333
+CN,Xinjiang,SHF,ZWHZ,Shihezi Huayuan Airport,44.2421,85.8905
+CN,Liaoning,SHE,ZYTX,Shenyang Taoxian International Airport,41.63980103,123.4830017
+CN,Tianjin,TSN,ZBTJ,Tianjin Binhai International Airport,39.12440109,117.3460007
+CN,Shanghai,SHA,ZSSS,Shanghai Hongqiao International Airport,31.19790077,121.3359985
+CN,Xinjiang,HMI,ZWHM,Hami Airport (Kumul Airport),42.8414,93.669197
+CN,Hunan,HNY,ZGHY,Hengyang Nanyue Airport,26.9053,112.627998
+CN,Hubei,HPG,ZHSN,Shennongjia Hongping Airport,31.626,110.34
+CN,Heilongjiang,HRB,ZYHB,Harbin Taiping International Airport,45.62340164,126.25
+CN,Guangdong,HSC,,Shaoguan Guitou Airport,24.97859955,113.4209976
+CN,Henan,HSJ,,Zhengzhou Shangjie Airport,34.842153,113.273983
+CN,Zhejiang,HSN,ZSZS,Zhoushan Putuoshan Airport,29.93420029,122.3619995
+CN,Xinjiang,HTN,ZWTN,Hotan Airport,37.03850174,79.86489868
+CN,Qinghai,HTT,,Huatugou Airport,38.201984,90.841495
+CN,Jiangsu,RUG,ZSRG,Rugao Air Base,32.25788498,120.5016556
+CN,Nei Mongol,HUO,ZBHZ,Holingol Huolinhe Airport,45.487222,119.407222
+CN,Guangdong,HUZ,ZGHZ,Huizhou Pingtan Airport,23.04999924,114.5999985
+CN,Xinjiang,RQA,ZWRQ,Ruoqiang Loulan Airport,38.974722,88.008333
+CN,Qinghai,HXD,ZLDL,Delingha Airport,37.125286,97.268658
+CN,Shaanxi,ENY,ZLYA,Yan'an Ershilipu Airport,36.636902,109.554001
+CN,Zhejiang,HYN,ZSLQ,Taizhou Luqiao Airport,28.56220055,121.4290009
+CN,Shaanxi,HZG,ZLHZ,Hanzhong Chenggu Airport,33.134136,107.206014
+CN,Guizhou,HZH,ZUNP,Liping Airport,26.32217,109.1499
+CN,Heilongjiang,MDG,ZYMD,Mudanjiang Hailang Airport,44.52410126,129.5690002
+CN,Nei Mongol,RLK,ZBYZ,Bayannur Tianjitai Airport,40.926,107.7428
+CN,Xizang,RKZ,ZURK,Shigatse Peace Airport,29.3519,89.311401
+CN,Shandong,RIZ,,Rizhao Shanzihe Airport,35.405033,119.324403
+CN,Nei Mongol,RHT,,Alxa Right Banner Badanjilin Airport,39.225,101.546
+CN,Nei Mongol,EJN,,Ejin Banner Taolai Airport,42.0155,101.0005
+CN,Ningxia,INC,ZLIC,Yinchuan Hedong International Airport,38.322758,106.393214
+CN,Xinjiang,IQM,ZWCM,Qiemo Airport,38.233611,85.465556
+CN,Gansu,IQN,ZLQY,Qingyang Airport,35.799702,107.602997
+CN,Xinjiang,QSZ,,Shache Airport,38.281055,77.075192
+CN,Sichuan,PZI,ZUZH,Panzhihua Bao'anying Airport,26.54,101.79852
+CN,Shanghai,PVG,ZSPD,Shanghai Pudong International Airport,31.14340019,121.8050003
+CN,Jiangxi,JDZ,ZSJD,Jingdezhen Luojia Airport,29.33860016,117.1760025
+CN,Heilongjiang,JGD,ZYJD,Jiagedaqi Airport,50.371389,124.1175
+CN,Gansu,JGN,ZLJQ,Jiayuguan Airport,39.856899,98.3414
+CN,Jiangxi,JGS,ZSJA,Jinggangshan Airport,26.85689926,114.7369995
+CN,Guizhou,AVA,ZUAS,Anshun Huangguoshu Airport,26.26055556,105.8733333
+CN,Yunnan,JHG,ZPJH,Xishuangbanna Gasa Airport,21.97389984,100.7600021
+CN,Gansu,JIC,ZLJC,Jinchang Jinchuan Airport,38.54222222,102.3483333
+CN,Sichuan,MIG,ZUMY,Mianyang Nanjiao Airport,31.42810059,104.7409973
+CN,Jilin,JIL,ZYJL,Jilin Ertaizi Airport,44.002201,126.396004
+CN,Chongqing,JIQ,ZUQJ,Qianjiang Wulingshan Airport,29.51333333,108.8311111
+CN,Jiangxi,JIU,ZSJJ,Jiujiang Lushan Airport,29.476944,115.801111
+CN,Fujian,JJN,ZSQZ,Quanzhou Jinjiang International Airport,24.7964,118.589996
+CN,Heilongjiang,JMU,ZYJM,Jiamusi Dongjiao Airport,46.84339905,130.4649963
+CN,Shandong,JNG,ZLJN,Jining Qufu Airport,35.292778,116.346667
+CN,Liaoning,JNZ,ZYJZ,Jinzhou Bay Airport,41.10139847,121.0619965
+CN,Heilongjiang,JSJ,ZYJS,Jiansanjiang Airport,47.11,132.660278
+CN,Anhui,JUH,,Chizhou Jiuhuashan Airport,30.7403,117.6856
+CN,Nei Mongol,AXF,,Alxa Left Banner Bayanhot Airport,38.74831,105.58858
+CN,Zhejiang,JUZ,ZSJU,Quzhou Airport,28.965799,118.899002
+CN,Heilongjiang,JXA,ZYJX,Jixi Xingkaihu Airport,45.293,131.193
+CN,Sichuan,JZH,ZUJZ,Jiuzhai Huanglong Airport,32.85333333,103.6822222
+CN,Shandong,PNJ,,Penglai Shahekou Airport,42.44639,119.57361
+CN,Jilin,TNH,ZYTN,Tonghua Sanyuanpu Airport,42.25388889,125.7033333
+CN,Xinjiang,KCA,ZWKC,Kuqa Qiuci Airport,41.677856,82.872917
+CN,Shandong,TNA,ZSJN,Jinan Yaoqiang International Airport,36.85720062,117.2160034
+CN,Sichuan,KGT,ZUKD,Kangding Airport,30.1575,101.734722
+CN,Beijing,PEK,ZBAA,Beijing Capital International Airport,40.08010101,116.5849991
+CN,Fujian,FOC,ZSFZ,Fuzhou Changle International Airport,25.93510056,119.663002
+CN,Xinjiang,KHG,ZWSH,Kashgar Airport (Kashi Airport),39.54290009,76.01999664
+CN,Jiangxi,KHN,ZSCN,Nanchang Changbei International Airport,28.86499977,115.9000015
+CN,Guizhou,KJH,,Kaili Huangping Airport,26.972,107.988
+CO,Narino,MQR,,Mosquera Airport,2.64955,-78.3361
+CO,Cesar,GRA,,Gamarra Airport,8.34197,-73.70565
+CO,Huila,SRO,,Santana Ramos Airport,2.216667,-75.25
+CO,Antioquia,IGO,SKIG,Jaime Ortiz Betancur Airport,7.68038,-76.6865
+CO,Huila,PCC,,Puerto Rico Airport,1.916667,-75.166667
+CO,Choco,BSC,SKBS,Jose Celestino Mutis Airport,6.20292,-77.3947
+CO,La Guajira,SJH,,San Juan del Cesar Airport,10.766667,-73.016667
+CO,Cesar,DZI,,Codazzi Airport,10.096608,-73.2337
+CO,Casanare,PRE,,Pore Airport,5.733333,-71.983333
+CO,Vaupes,MFB,,Monfort Airport,0.633333,-69.75
+CO,Boyaca,SJG,,San Pedro de Jagua Airport,4.65,-73.3333333
+CO,Arauca,TME,SKTM,Gabriel Vargas Santos Airport,6.45108,-71.7603
+CO,Cundinamarca,MND,,Medina Airport,4.516667,-73.283333
+CO,Cordoba,AYA,,Ayapel Airport,8.3,-75.15
+CO,Boyaca,MOY,,Monterrey Airport,4.906926,-72.894809
+CO,Putumayo,LQM,SKLG,Caucaya Airport,-0.182278,-74.7708
+CO,Antioquia,UNC,,Unguia Airport,8.033333,-77.083333
+CO,Amazonas,AYC,,Ayacucho Airport,8.6,-73.616667
+CO,Antioquia,ULS,,Mulatos Airport,8.65,-76.75
+CO,Caqueta,AYG,SKYA,Yaguara Airport,1.54417,-73.9333
+CO,Antioquia,SJR,,San Juan de Uraba Airport,8.766667,-76.533333
+CO,Tolima,CPL,SKHA,General Navas Pardo Airport,3.717,-75.467
+CO,Vaupes,VAB,,Yavarate Airport,1.1166667,-70.75
+CO,Cauca,TBD,SKMB,Timbiqui Airport,2.767,-77.667
+CO,Antioquia,SMC,,Santa Maria Airport,8.15,-77.05
+CO,Boyaca,SOX,SKSO,Alberto Lleras Camargo Airport,5.67732,-72.9703
+CO,Antioquia,NPU,,San Pedro de Uraba Airport,8.28597,-76.380386
+CO,Guaviare,MFS,SKMF,Miraflores Airport,1.35,-71.9444
+CO,Tolima,PLA,,Planadas Airport,3.3,-75.7
+CO,Magdalena,PLT,SKPL,Plato Airport,9.8,-74.7833
+CO,Cordoba,PLC,,Planeta Rica Airport,8.4,-75.6
+CO,Bolivar,MGN,SKMG,Baracoa Regional Airport,9.28474,-74.8461
+CO,Boyaca,TAU,SKTA,Tauramena Airport,5.01281,-72.7424
+CO,Cauca,GPI,SKGP,Guapi Airport (Juan Casiano Airport),2.57013,-77.8986
+CO,Cordoba,SCA,,Santa Catalina Airport,8.5,-76.175
+CO,Risaralda,PEI,SKPE,Matecana International Airport,4.81267,-75.7395
+CO,Casanare,NUH,,Nunchia Airport,5.65,-72.2
+CO,Santander,BGA,SKBG,Palonegro International Airport,7.1265,-73.1848
+CO,Tolima,SQB,,Santa Ana Airport,4.408333,-75.021667
+CO,Sucre,CVE,SKCV,Covenas Airport,9.40092,-75.6913
+CO,Narino,PYN,,Payan Airport,1.8,-78.166667
+CO,Cordoba,LRI,,Lorica Airport,9.0333333,-75.7
+CO,Guainia,NAD,,Macanal Airport,2.566667,-67.583333
+CO,Vaupes,ARF,,Acaricuara Airport,0.533333,-70.133333
+CO,Amazonas,SSD,SCSF,San Felipe Airport,-32.74580002,-70.70500183
+CO,Cauca,LMX,,Lopez de Micay Airport,3.05,-77.55
+CO,Casanare,EYP,SKYP,El Alcaravan Airport,5.31911,-72.384
+CO,Choco,JUO,SKJU,Jurado Airport,6.516667,-76.6
+CO,Antioquia,ARO,,Arboletes Airport,8.85705,-76.4244
+CO,Choco,ACD,SKAD,Alcides Fernandez Airport,8.51667,-77.3
+CO,Vaupes,CUO,SKCR,Caruru Airport,1.0136,-71.2961
+CO,Valle del Cauca,ACL,,Aguaclara Airport,4.753611,-73.002778
+CO,Amazonas,ACM,,Arica Airport,-2.145437336,-71.75806046
+CO,Vaupes,MVP,SKMU,Fabio Alberto Leon Bentley Airport,1.25366,-70.2339
+CO,Huila,NVA,SKNV,Benito Salas Airport,2.95015,-75.294
+CO,Caqueta,ACR,SKAC,Araracuara Airport,-0.5833,-72.4083
+CO,Caqueta,CUI,,Curillo Airport,4.666667,-72
+CO,Meta,ELJ,SVWX,El Recreo Airport,2,-74.133333
+CO,Arauca,ARQ,SKAT,El Troncal Airport,7.02106,-71.388901
+CO,Meta,URI,SKUB,Uribe Airport,3.216667,-74.4
+CO,Casanare,TTM,,Tablon de Tamara Airport,5.72448,-72.10301
+CO,Narino,ISD,,Iscuande Airport,2.445825,-77.981753
+CO,La Guajira,MCJ,SKLM,Jorge Isaacs Airport (La Mina Airport),11.2325,-72.4901
+CO,Antioquia,TRB,SKTU,Gonzalo Mejia Airport,8.07453,-76.7415
+CO,Boyaca,PYA,SKVL,Velasquez Airport,5.93904,-74.457
+CO,Amazonas,ECO,,El Encanto Airport,-1.753333333,-73.20472222
+CO,Antioquia,CAQ,SKCU,Juan H. White Airport,7.96847,-75.1985
+CO,Antioquia,ADN,SKAN,Andes Airport,5.69764,-75.88038
+CO,Santander,AZT,,Zapatoca Airport,6.816667,-73.283333
+CO,Choco,BHF,SKCP,Bahia Cupica Airport,6.55,-77.3263
+CO,Meta,BAC,,Barranca de Upia Airport,4.583333,-72.966667
+CO,Narino,ECR,SKEH,El Charco Airport,2.449444444,-78.09416667
+CO,Narino,PSO,SKPS,Antonio Narino Airport,1.39625,-77.2915
+CO,"San Andres, Providencia y Santa Catalina",ADZ,SKSP,Gustavo Rojas Pinilla International Airport,12.5836,-81.7112
+CO,Putumayo,VGZ,SKVG,Villa Garzon Airport,0.978767,-76.6056
+CO,Caqueta,TQS,SKTQ,Captain Ernesto Esguerra Cubides Air Base,0.7459,-75.234
+CO,Guainia,PDA,SKPD,Obando Airport,3.85353,-67.9062
+CO,Caqueta,CQT,,Caquetania Airport,2.033333,-74.216667
+CO,Sucre,CZU,SKCZ,Las Brujas Airport,9.33274,-75.2856
+CO,Casanare,PZA,SKPZ,Paz de Ariporo Airport,5.87615,-71.8866
+CO,Distrito Capital de Bogota,BOG,SKBO,El Dorado International Airport,4.70159,-74.1469
+CO,Casanare,SQE,,San Luis de Palenque Airport,5.400181,-71.7001
+CO,Caqueta,SVI,SKSV,Eduardo Falla Solano Airport,2.15217,-74.7663
+CO,Tolima,GIR,SKGI,Santiago Vila Airport,4.27624,-74.7967
+CO,Atlantico,BAQ,SKBQ,Ernesto Cortissoz International Airport,10.8896,-74.7808
+CO,Norte de Santander,OCV,SKOC,Aguas Claras Airport,8.31506,-73.3583
+CO,Antioquia,AFI,SKAM,Amalfi Airport,6.91667,-75.0667
+CO,Santander,EJA,SKEJ,Yariguies Airport,7.02433,-73.8068
+CO,Valle del Cauca,BUN,SKBU,Gerardo Tobar Lopez Airport,3.81963,-76.9898
+CO,Cordoba,MTR,SKMR,Los Garzones Airport,8.82374,-75.8258
+CO,Valle del Cauca,CRC,SKGO,Santa Ana Airport,4.75818,-75.9557
+CO,Guainia,MHF,,Morichal Airport,1.75,-69.916667
+CO,Antioquia,MDE,SKRG,Jose Maria Cordova International Airport,6.16454,-75.4231
+CO,Choco,COG,SKCD,Mandinga Airport,5.08333,-76.7
+CO,Magdalena,SMR,SKSM,Simon Bolivar International Airport,11.1196,-74.2306
+CO,Arauca,RAV,SKCN,Cravo Norte Airport,6.31684,-70.2107
+CO,Bolivar,CTG,SKCG,Rafael Nunez International Airport,10.4424,-75.513
+CO,Cundinamarca,EUO,,Paratebueno Airport,4.383333,-73.2
+CO,Vaupes,MIX,,Miriti-Parana Airport,-1.1333333,-70.25
+CO,Boyaca,RON,SKPA,Juan Jose Rondon,6.283,-71.083
+CO,Casanare,HTZ,SKHC,Hato Corozal Airport,6.15,-71.75
+CO,Arauca,RVE,SKSA,Los Colonizadores Airport,6.951868,-71.857179
+CO,Meta,CCO,SKCI,Carimagua Airport,4.56417,-71.3364
+CO,Choco,NQU,SKNQ,Reyes Murillo Airport,5.6964,-77.2806
+CO,"San Andres, Providencia y Santa Catalina",PVA,SKPV,El Embrujo Airport,13.3569,-81.3583
+CO,Cordoba,MTB,SKML,Montelibano Airport,7.97174,-75.4325
+CO,Arauca,AUC,SKUC,Santiago Perez  Quiroz Airport,7.06888,-70.7369
+CO,Vichada,CSR,,Casuarito Airport,5.833333,-68.133333
+CO,Amazonas,LCR,,La Chorrera Airport,-0.733333,-73.01667
+CO,Cauca,PPN,SKPP,Guillermo Leon Valencia Airport,2.4544,-76.6093
+CO,Vichada,SSL,SKSL,Santa Rosalia Airport,5.1309,-70.8682
+CO,Amazonas,TCD,SKRA,Tarapaca Airport,-2.894722,-69.747222
+CO,La Guajira,RCH,SKRH,Almirante Padilla Airport,11.5262,-72.926
+CO,Meta,GMC,,Guerima Airport,3.62918,-70.32332
+CO,Cundinamarca,PAL,SKPQ,Captain German Olano Moreno Air Base,5.48361,-74.6574
+CO,Norte de Santander,TIB,SKTB,Tibu Airport,8.63152,-72.7304
+CO,Tolima,IBE,SKIB,Perales Airport,4.42161,-75.1333
+CO,Amazonas,LET,SKLT,Alfredo Vasquez Cobo International Airport,-4.19355,-69.9432
+CO,Antioquia,PBE,SKPR,Morela Airport (Puerto Berrio Airport,6.46034,-74.4105
+CO,Caqueta,FLA,SKFL,Gustavo Artunduaga Paredes Airport,1.58919,-75.5644
+CO,Cundinamarca,HRR,,La Herrera Airport,3.216667,-75.85
+CO,Meta,GAA,,Guamal Airport,9.044649,-730973386
+CO,Santander,SNT,SKRU,Las Cruces Airport,7.38322,-73.505402
+CO,Narino,IPI,SKIP,San Luis Airport,0.861925,-77.6718
+CO,Vichada,LGT,SKGA,Las Gaviotas Airport,4.549722,-70.925
+CO,Choco,CPB,SKCA,Capurgana Airport,8.63333,-77.35
+CO,Magdalena,IVO,,Chibolo Airport,10.0166667,-74.6833333
+CO,Antioquia,URR,SKUR,Urrao Airport,6.32883,-76.1425
+CO,Vichada,PCR,SKPC,German Olano Airport,6.18472,-67.4932
+CO,Huila,CJD,,Candilejas Airport,2.0666667,-74.5833333
+CO,Casanare,TDA,SKTD,Trinidad Airport,5.43278,-71.6625
+CO,Valle del Cauca,ULQ,SKUL,Heriberto Gil Martinez,4.08836,-76.2351
+CO,Tolima,MQU,SKQU,Mariquita Airport,5.21256,-74.8836
+CO,Norte de Santander,CUC,SKCC,Camilo Daza International Airport,7.92757,-72.5115
+CO,Quindio,AXM,SKAR,El Eden International Airport,4.45278,-75.7664
+CO,Vichada,LPE,SKIM,La Primavera Airport,3.733333,-76.216667
+CO,Choco,UIB,SKUI,El Carano Airport,5.69076,-76.6412
+CO,Antioquia,EBG,SKEB,El Bagre Airport (El Tomin Airport),7.59647,-74.8089
+CO,Valle del Cauca,CLO,SKCL,Alfonso Bonilla Aragon International Airport,3.54322,-76.3816
+CO,Cesar,VUP,SKVP,Alfonso Lopez Pumarejo Airport,10.435,-73.2495
+CO,Meta,VVC,SKVV,La Vanguardia Airport,4.16787,-73.6138
+CO,Antioquia,NCI,SKNC,Antioquia Airport,8.45,-76.7833
+CO,Meta,LMC,SKNA,La Macarena Airport,2.1736,-73.7862
+CO,Guainia,NBB,SKBM,Barranco Minas Airport,3.483333,-69.8
+CO,Sucre,TLU,SKTL,Golfo de Morrosquillo Airport,9.50945,-75.5854
+CO,Casanare,ORC,SKOE,Orocue Airport,4.79222,-71.3564
+CO,Antioquia,NAR,SKPN,Puerto Nare Airport,6.21002,-74.5906
+CO,Guaviare,AYI,,Yari Airport,-0.383333,-72.266667
+CO,Caldas,MZL,SKMZ,La Nubia Airport (Santaguida Airport),5.0296,-75.4647
+CO,Amazonas,LPD,SKLP,La Pedrera Airport,-1.32861,-69.5797
+CO,Narino,TCO,SKCO,La Florida Airport,1.81442,-78.7492
+CO,Boyaca,GCA,,Guacamayas Airport,2.283333,-74.95
+CO,Putumayo,PUU,SKAS,Tres de Mayo Airport,0.505228,-76.5008
+CO,Sucre,SRS,,San Marcos Airport,8.69,-75.156
+CO,Santander,CIM,SKCM,Cimitarra Airport,6.367,-73.967
+CO,Antioquia,EOH,SKMD,Olaya Herrera Airport,6.220549,-75.590582
+CO,Guaviare,SJE,SKSJ,Jorge Enrique Gonzalez Torres Airport,2.57969,-72.6394
+CO,Huila,PTX,SKPI,Contador Airport,1.85777,-76.0857
+CO,Bolivar,MMP,SKMP,San Bernardo Airport,9.799106,-74.786006
+CO,Antioquia,OTU,SKOT,Otu Airport,7.01037,-74.7155
+CO,Meta,API,SKAP,Captain Luis F. Gomez Nino Air Base,4.07607,-73.5627
+CO,Choco,GGL,,Gilgal Airport,8.333333,-77.083333
+CO,Antioquia,APO,SKLC,Antonio Roldan  Betancourt Airport,7.81196,-76.7164
+CO,Magdalena,ELB,SKBC,Las Flores Airport,9.04554,-73.9749
+CR,Guanacaste,CSC,MRMJ,Canas Mojica Airport,10.4307003,-85.17459869
+CR,Alajuela,RFR,MRRF,Rio Frio Airport,10.32740021,-83.88760376
+CR,Limon,TTQ,MRBT,Tortuguero Airport (Barra de Tortuguero Airport),10.42,-83.6095
+CR,Alajuela,SJO,MROC,Juan Santamaria International Airport,9.993860245,-84.20880127
+CR,Limon,LIO,MRLM,Limon International Airport,9.957960129,-83.02200317
+CR,Guanacaste,LIR,MRLB,Daniel Oduber Quiros International Airport,10.5933,-85.544403
+CR,Puntarenas,XQP,MRQP,Quepos La Managua Airport,9.443160057,-84.12979889
+CR,Guanacaste,PBP,MRIA,Punta Islita Airport,9.856109619,-85.3707962
+CR,Alajuela,LSL,MRLC,Los Chiles Airport,11.03530025,-84.70610046
+CR,Puntarenas,JAP,MRCH,Chacarita Airport,9.981410027,-84.77269745
+CR,Puntarenas,GLF,MRGF,Golfito Airport,8.654009819,-83.18219757
+CR,Alajuela,UPL,MRUP,Upala Airport,10.8922,-85.016197
+CR,Limon,GPL,MRGP,Guapiles Airport,10.21720028,-83.79699707
+CR,Guanacaste,PLD,MRCR,Carrillo Airport (Playa Samara/Carrillo Airport),9.870510101,-85.48139954
+CR,Guanacaste,NCT,MRNC,Nicoya Guanacaste Airport,10.13939953,-85.44580078
+CR,Puntarenas,BAI,MRBA,Buenos Aires Airport,9.163949,-83.330171
+CR,Puntarenas,TMU,MRTR,Tambor Airport,9.73852,-85.013802
+CR,Puntarenas,PMZ,MRPM,Palmar Sur Airport,8.951029778,-83.46859741
+CR,Puntarenas,OTR,MRCC,Coto 47 Airport,8.601559639,-82.96859741
+CR,Puntarenas,PJM,MRPJ,Puerto Jimenez Airport,8.533329964,-83.30000305
+CR,Puntarenas,TOO,MRSV,San Vito de Java Airport,8.826109886,-82.95890045
+CR,Guanacaste,TNO,MRTM,Tamarindo Airport,10.3135004,-85.81549835
+CR,San Jose,SYQ,MRPV,Tobias Bolanos International Airport,9.957050323,-84.13980103
+CR,Guanacaste,NOB,MRNS,Nosara Airport,9.976490021,-85.65299988
+CR,Limon,BCL,MRBC,Barra del Colorado Airport,10.76869965,-83.58560181
+CR,Puntarenas,DRK,MRDK,Drake Bay Airport,8.71889019,-83.64170074
+CR,Alajuela,FON,MRAN,La Fortuna Airport,10.478,-84.634499
+CU,Villa Clara,BWW,MUBR,Las Brujas Airport,22.62129974,-79.14720154
+CU,Isla de la Juventud,GER,MUNG,Rafael Cabrera Mustelier Airport,21.83469963,-82.78379822
+CU,Sancti Spiritus,USS,MUSS,Sancti Spiritus Airport,21.9704,-79.442703
